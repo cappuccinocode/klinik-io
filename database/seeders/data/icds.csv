@@ -1,0 +1,1001 @@
+﻿id;icd_category_id;icd_code;icd_description;record_status
+b41851e3-2809-7352-47fe-63de38634273;d30567a8-36ff-7875-8687-2029d9a4a010;A00;Cholera;A
+ce6b143b-55d8-46ef-5c78-46725cef1ed2;d30567a8-36ff-7875-8687-2029d9a4a010;A00.0;Cholera due to Vibrio cholerae 01, biovar cholerae;A
+759d55c9-18b5-8a70-804a-543f71fd23c9;d30567a8-36ff-7875-8687-2029d9a4a010;A00.1;Cholera due to Vibrio cholerae 01, biovar eltor;A
+cbd56a9d-5729-7089-5a04-8afd84487a8c;d30567a8-36ff-7875-8687-2029d9a4a010;A00.9;Cholera, unspecified;A
+0979fe7f-8d77-193f-65f3-d752f50583f7;d30567a8-36ff-7875-8687-2029d9a4a010;A01;Typhoid and paratyphoid fevers;A
+5998df7a-012a-0def-6e62-f91a9d4d7b7c;d30567a8-36ff-7875-8687-2029d9a4a010;A01.0;Typhoid fever;A
+4bf73d1e-744c-3b1c-2b18-ef31bc0f1ade;d30567a8-36ff-7875-8687-2029d9a4a010;A01.1;Paratyphoid fever A;A
+02b9882f-18e9-325b-1036-6e4cd9f56e0f;d30567a8-36ff-7875-8687-2029d9a4a010;A01.2;Paratyphoid fever B;A
+55cb5919-9ec0-25a5-5bda-bbe6fe132dd5;d30567a8-36ff-7875-8687-2029d9a4a010;A01.3;Paratyphoid fever C;A
+1eeaeea7-48ee-6873-1a03-80ef3d842251;d30567a8-36ff-7875-8687-2029d9a4a010;A01.4;Paratyphoid fever, unspecified;A
+eafd5a1b-61eb-01b3-39c3-da9b124c42b3;d30567a8-36ff-7875-8687-2029d9a4a010;A02;Other salmonella infections;A
+fce763f9-654a-4346-515b-bf93a7157198;d30567a8-36ff-7875-8687-2029d9a4a010;A02.0;Salmonella enteritis;A
+2b2b51da-5c3a-62b8-2e5e-c5f586c483e4;d30567a8-36ff-7875-8687-2029d9a4a010;A02.1;Salmonella sepsis;A
+b3e67893-8b8b-5ddf-5957-b723c007a93;d30567a8-36ff-7875-8687-2029d9a4a010;A02.2;Localized salmonella infections;A
+a3428f49-3625-20db-2aad-f072f7a5515b;d30567a8-36ff-7875-8687-2029d9a4a010;A02.8;Other specified salmonella infections;A
+957828ad-06c5-1e52-17f3-5548d8211bf7;d30567a8-36ff-7875-8687-2029d9a4a010;A02.9;Salmonella infection, unspecified;A
+221f276e-60d2-7f70-8040-1ea3e73c3c1f;d30567a8-36ff-7875-8687-2029d9a4a010;A03;Shigellosis;A
+641ed1c2-4e0d-3e4a-73c8-a7606b434d0a;d30567a8-36ff-7875-8687-2029d9a4a010;A03.0;Shigellosis due to Shigella dysenteriae;A
+41e4c18f-97f2-3b77-9f93-0b2042807b67;d30567a8-36ff-7875-8687-2029d9a4a010;A03.1;Shigellosis due to Shigella flexneri;A
+c4c54be0-2a29-4bfd-970d-abc40b1e49f7;d30567a8-36ff-7875-8687-2029d9a4a010;A03.2;Shigellosis due to Shigella boydii;A
+0518a6e1-0336-65ef-420e-3aaa7d9ba6a5;d30567a8-36ff-7875-8687-2029d9a4a010;A03.3;Shigellosis due to Shigella sonnei;A
+6ff73629-7349-795d-48c1-5564eb67a777;d30567a8-36ff-7875-8687-2029d9a4a010;A03.8;Other Shigellosis;A
+c586bda8-a0b4-7595-2823-1ebcae2d7ce3;d30567a8-36ff-7875-8687-2029d9a4a010;A03.9;Shigellosis, unspecified;A
+0e3632bc-8c46-0567-9f21-29bf7b41811e;d30567a8-36ff-7875-8687-2029d9a4a010;A04;Other bacterial intestinal infections;A
+8315ec28-1aa2-3cd7-1414-616d9a694c91;d30567a8-36ff-7875-8687-2029d9a4a010;A04.0;Enteropathogenic Escherichia coli infection;A
+e4967a41-8084-94e9-2bfe-77480a1d5cc0;d30567a8-36ff-7875-8687-2029d9a4a010;A04.1;Enterotoxigenic Escherichia coli infection;A
+efc64159-6126-090b-5ff2-3efb318d91c6;d30567a8-36ff-7875-8687-2029d9a4a010;A04.2;Enteroinvasive Escherichia coli infection;A
+1bc15f28-1f02-a390-23ae-d726b57269c4;d30567a8-36ff-7875-8687-2029d9a4a010;A04.3;Enterohaemorrhagic Escherichia coli infection;A
+e899e4b8-937e-8e11-23e0-7277e1faccc;d30567a8-36ff-7875-8687-2029d9a4a010;A04.4;Other intestinal Escherichia coli infections;A
+e58d4a1c-1bdb-5ad6-4c5a-bc5ef25c1e74;d30567a8-36ff-7875-8687-2029d9a4a010;A04.5;Campylobacter enteritis;A
+d3e5c34f-5d76-a6a5-709c-ac744eaf16ac;d30567a8-36ff-7875-8687-2029d9a4a010;A04.6;Enteritis due to Yersinia enterocolitica;A
+72f108ec-58a7-7d50-8bdc-715f11064a3a;d30567a8-36ff-7875-8687-2029d9a4a010;A04.7;Enterocolitis due to Clostridium difficile;A
+11157e0b-3285-6826-5020-bb09cd946e06;d30567a8-36ff-7875-8687-2029d9a4a010;A04.8;Other specified bacterial intestinal infections;A
+83fa2131-07b6-7122-4ec5-df8c951d384f;d30567a8-36ff-7875-8687-2029d9a4a010;A04.9;Bacterial intestinal infection, unspecified;A
+44ee26d8-937f-2a1f-62bd-d0c9d6c03831;d30567a8-36ff-7875-8687-2029d9a4a010;A05;Other bacterial foodborne intoxications, not elsewhere classified;A
+fceb909b-8180-5e49-061b-00b8cd90592;d30567a8-36ff-7875-8687-2029d9a4a010;A05.0;Foodborne staphylococcal intoxication;A
+4ea31d4c-702b-0321-9483-f3b2daa716da;d30567a8-36ff-7875-8687-2029d9a4a010;A05.1;Botulism;A
+83272438-7ff1-4aff-5582-167aaf5e74b;d30567a8-36ff-7875-8687-2029d9a4a010;A05.2;Foodborne Clostridium perfringens [Clostridium welchii] intoxication;A
+2e685d28-24ba-65a3-4eb9-0af262ac3d01;d30567a8-36ff-7875-8687-2029d9a4a010;A05.3;Foodborne Vibrio parahaemolyticus intoxication;A
+fa58a9fc-0b95-88d9-6a5a-ce59f74d2515;d30567a8-36ff-7875-8687-2029d9a4a010;A05.4;Foodborne Bacillus cereus intoxication;A
+935ed0f6-593e-384a-07ea-be3aef3391ae;d30567a8-36ff-7875-8687-2029d9a4a010;A05.8;Other specified bacterial foodborne intoxications;A
+7c0a585d-7bbb-34a0-2f09-15fe4b399031;d30567a8-36ff-7875-8687-2029d9a4a010;A05.9;Bacterial foodborne intoxication, unspecified;A
+79036626-9fb4-968a-96e4-cffa1299160;d30567a8-36ff-7875-8687-2029d9a4a010;A06;Amoebiasis;A
+11dae833-2855-381e-1f81-1274818a880;d30567a8-36ff-7875-8687-2029d9a4a010;A06.0;Acute amoebic dysentery;A
+2ff72995-2285-7747-61f4-070ced2b9215;d30567a8-36ff-7875-8687-2029d9a4a010;A06.1;Chronic intestinal amoebiasis;A
+bbe61c56-976a-0af2-3156-3840b7a57753;d30567a8-36ff-7875-8687-2029d9a4a010;A06.2;Amoebic nondysenteric colitis;A
+563e70b3-1069-0f55-2fae-0af282be9eb9;d30567a8-36ff-7875-8687-2029d9a4a010;A06.3;Amoeboma of intestine;A
+f0f6ba1b-1807-93a8-21a9-0a294edbb6c;d30567a8-36ff-7875-8687-2029d9a4a010;A06.4;Amoebic liver abscess;A
+131f48de-4b51-06ad-1e49-8d548ea4148f;d30567a8-36ff-7875-8687-2029d9a4a010;A06.5;Amoebic lung abscess (J99.8*);A
+22757d12-19b3-1449-8052-86b9b6a186a0;d30567a8-36ff-7875-8687-2029d9a4a010;A06.6;Amoebic brain abscess (G07*);A
+e51bd4bc-8a92-0a67-29c0-89e5781c1f0c;d30567a8-36ff-7875-8687-2029d9a4a010;A06.7;Cutaneous amoebiasis;A
+307c2130-834d-7ee0-6a67-b538a20414bb;d30567a8-36ff-7875-8687-2029d9a4a010;A06.8;Amoebic infection of other sites;A
+6c5ac91e-8bc7-36a9-19b2-e74507de274e;d30567a8-36ff-7875-8687-2029d9a4a010;A06.9;Amoebiasis, unspecified;A
+f01cef86-168f-2af4-05bc-32e05e3f4dd7;d30567a8-36ff-7875-8687-2029d9a4a010;A07;Other protozoal intestinal diseases;A
+083ef291-544e-199b-14bd-d75b0e097b2e;d30567a8-36ff-7875-8687-2029d9a4a010;A07.0;Balantidiasis;A
+de9e0517-7496-037b-a75b-c0443c6f8d8d;d30567a8-36ff-7875-8687-2029d9a4a010;A07.1;Giardiasis [lambliasis];A
+e4fb68b9-8977-87d4-9811-5e00883148f6;d30567a8-36ff-7875-8687-2029d9a4a010;A07.2;Cryptosporidiosis;A
+c9136750-1f4f-7194-764b-43153e31a40a;d30567a8-36ff-7875-8687-2029d9a4a010;A07.3;Isosporiasis;A
+da3cb655-3e80-a508-5e9b-f97b80b87ade;d30567a8-36ff-7875-8687-2029d9a4a010;A07.8;Other specified protozoal intestinal diseases;A
+9b6d56c1-0773-9013-1b7a-4907c2de2e45;d30567a8-36ff-7875-8687-2029d9a4a010;A07.9;Protozoal intestinal disease, unspecified;A
+0213f4c2-3263-8a9e-2add-966f0db1117a;d30567a8-36ff-7875-8687-2029d9a4a010;A08;Viral and other specified intestinal infections;A
+5cb0e918-1d88-579e-5cc5-f9f5208b33a0;d30567a8-36ff-7875-8687-2029d9a4a010;A08.0;Rotaviral enteritis;A
+33186059-0fd5-8172-9ad6-097f054c150a;d30567a8-36ff-7875-8687-2029d9a4a010;A08.1;Acute gastroenteropathy due to Norwalk agent;A
+3ec7e9b4-0286-6e8a-7d53-a0ee17ee76ce;d30567a8-36ff-7875-8687-2029d9a4a010;A08.2;Adenoviral enteritis;A
+c900b8fd-4226-786d-143e-9d2cb010906a;d30567a8-36ff-7875-8687-2029d9a4a010;A08.3;Other viral enteritis;A
+d87d40c6-48b1-a38d-8cf9-308843af2326;d30567a8-36ff-7875-8687-2029d9a4a010;A08.4;Viral intestinal infection, unspecified;A
+38ecbc4a-3971-5ef5-6250-2664a1ee4c85;d30567a8-36ff-7875-8687-2029d9a4a010;A08.5;Other specified intestinal infections;A
+ff98a39d-26f5-2d95-0e31-3c5769012d00;d30567a8-36ff-7875-8687-2029d9a4a010;A09;Other gastroenteritis and colitis of infectious and unspecified origin;A
+58499105-3543-3e8f-19eb-59ec8a196069;d30567a8-36ff-7875-8687-2029d9a4a010;A09.0;Other and unspecified gastroenteritis and colitis of infectious origin;A
+185147b2-50f8-0678-1309-bc8cc44a460a;d30567a8-36ff-7875-8687-2029d9a4a010;A09.9;Gastroenteritis and colitis of unspecified origin;A
+57a8af81-3e06-341f-975d-08815bb7522d;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15;Respiratory tuberculosis, bacteriologically and histologically confirmed;A
+559ccd6e-a640-a593-4cf5-cbf5376317d1;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.0;Tuberculosis of lung, confirmed by sputum microscopy with or without culture;A
+ea3ee1c8-45d5-203c-0496-742e29f53b16;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.1;Tuberculosis of lung, confirmed by culture only;A
+1ad60e1e-1b27-4d2a-8af4-6c6bfb4560da;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.2;Tuberculosis of lung, confirmed histologically;A
+9a89e4f7-7b2e-2a5c-1c16-4e523141221d;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.3;Tuberculosis of lung, confirmed by unspecified means;A
+bca835a3-3692-4be7-985f-9509e9edfaf;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.4;Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically;A
+c4fcb136-9a52-986e-04f3-7f092cc61376;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.5;Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically;A
+9ea75cf3-4bd8-25c4-12b6-d7b01ade2525;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.6;Tuberculous pleurisy, confirmed bacteriologically and histologically;A
+298ba863-9b47-8901-15ff-f738ff273aaf;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.7;Primary respiratory tuberculosis, confirmed bacteriologically and histologically;A
+ed767fa7-4d05-2906-094f-2cc5511b55a7;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.8;Other respiratory tuberculosis, confirmed bacteriologically and histologically;A
+d34156e1-31fc-5d9e-5fed-6e4abfd42b65;46fd5ccb-9bc5-3982-89e7-75399b7d480;A15.9;Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically;A
+775354a4-a63e-2f0c-834f-55d73a2d3621;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16;Respiratory tuberculosis, not confirmed bacteriologically or histologically;A
+83d34c3d-8df6-498b-8191-1de652be814c;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.0;Tuberculosis of lung, bacteriologically and histologically negative;A
+c8bf1844-8f4d-8421-1686-c8270a4527de;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.1;Tuberculosis of lung, bacteriological and histological examination not done;A
+f0cd8910-9c56-3b80-3ddc-03416c0b8388;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.2;Tuberculosis of lung, without mention of bacteriological or histological confirmation;A
+5833491c-61f6-62a7-468d-bc128f8149a4;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.3;Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation;A
+359ee814-221f-a111-9c61-8f8fa19b9d89;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.4;Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or histological confirmation;A
+88677c38-484b-7e6a-4fd6-887695c729a8;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.5;Tuberculous pleurisy, without mention of bacteriological or histological confirmation;A
+06441272-6175-715d-1538-3e15b230570f;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.7;Primary respiratory tuberculosis without mention of bacteriological or histological confirmation;A
+42246844-05f9-7324-4ed5-f9cb1598a5fe;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.8;Other respiratory tuberculosis, without mention of bacteriological or histological confirmation;A
+310380c5-1e81-95d0-0c5f-34560e482ff1;46fd5ccb-9bc5-3982-89e7-75399b7d480;A16.9;Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation;A
+763a5089-77e3-9114-2dfc-a014fa1889f5;46fd5ccb-9bc5-3982-89e7-75399b7d480;A17;Tuberculosis of nervous system;A
+a3df556e-0689-5e0c-9d05-552dd90699eb;46fd5ccb-9bc5-3982-89e7-75399b7d480;A17.0;Tuberculous meningitis (G01*);A
+1f5136da-56f4-326a-8ea5-479431cf62ed;46fd5ccb-9bc5-3982-89e7-75399b7d480;A17.1;Meningeal tuberculoma (G07*);A
+abfda30f-13de-1702-4c4a-b27dd5ad4c25;46fd5ccb-9bc5-3982-89e7-75399b7d480;A17.8;Other tuberculosis of nervous system;A
+f1a507c1-1db3-342d-128e-80f37ae383d4;46fd5ccb-9bc5-3982-89e7-75399b7d480;A17.9;Tuberculosis of nervous system, unspecified (G99.8*);A
+a3e1b11f-986b-18cd-8c6e-6b141543180;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18;Tuberculosis of other organs;A
+94e39fe6-4ec8-3bdd-0893-d227706a8e69;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.0;Tuberculosis of bones and joints;A
+187911ea-6556-9ce3-8071-62b128c94fd8;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.1;Tuberculosis of genitourinary system;A
+8a8d02f3-7c2e-5336-44c3-a0a0fad022cb;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.2;Tuberculous peripheral lymphadenopathy;A
+946f86c7-192e-3960-14d9-932f07646211;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.3;Tuberculosis of intestines, peritoneum and mesenteric glands;A
+280cc6dc-401e-8a18-102c-8e0072241a36;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.4;Tuberculosis of skin and subcutaneous tissue;A
+bcf6bf37-8ff0-739c-4314-ca0eabbc2a60;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.5;Tuberculosis of eye;A
+851145a0-5a9a-22d4-79bb-f557354542ae;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.6;Tuberculosis of ear;A
+6b98ac5c-a483-9d1a-01df-9c623f08785d;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.7;Tuberculosis of adrenal glands (E35.1*);A
+df8f2019-1de5-7c87-00d7-854735915340;46fd5ccb-9bc5-3982-89e7-75399b7d480;A18.8;Tuberculosis of other specified organs;A
+9e0541c3-872c-7258-3173-b0c133c253ab;46fd5ccb-9bc5-3982-89e7-75399b7d480;A19;Miliary tuberculosis;A
+b802445b-47f2-76ba-5172-b8b0a06f2180;46fd5ccb-9bc5-3982-89e7-75399b7d480;A19.0;Acute miliary tuberculosis of a single specified site;A
+25b39538-7ad4-4df8-34be-206f5f20a2e7;46fd5ccb-9bc5-3982-89e7-75399b7d480;A19.1;Acute miliary tuberculosis of multiple sites;A
+8637178e-4c7f-3789-7be7-25212c0a8abc;46fd5ccb-9bc5-3982-89e7-75399b7d480;A19.2;Acute miliary tuberculosis, unspecified;A
+e2b1f14f-1844-45a8-8e00-c7f1d5d84b55;46fd5ccb-9bc5-3982-89e7-75399b7d480;A19.8;Other miliary tuberculosis;A
+4c429c46-5e57-6061-6957-437795818bd8;46fd5ccb-9bc5-3982-89e7-75399b7d480;A19.9;Miliary tuberculosis, unspecified;A
+ac7bd5b8-687f-6b8c-7bec-a28d4393697c;64b44e45-4087-78e4-3992-ab140d662cba;A20;Plague;A
+17ecbf70-737d-4f26-8b9d-10c9570152d7;64b44e45-4087-78e4-3992-ab140d662cba;A20.0;Bubonic plague;A
+b833541a-42e9-31a2-1ad9-15eda6359353;64b44e45-4087-78e4-3992-ab140d662cba;A20.1;Cellulocutaneous plague;A
+afe11793-7ed8-0e42-505b-abc4685473ae;64b44e45-4087-78e4-3992-ab140d662cba;A20.2;Pneumonic plague;A
+b5722631-525f-0d07-801f-0c74b73b931a;64b44e45-4087-78e4-3992-ab140d662cba;A20.3;Plague meningitis;A
+ce5ff5fb-7673-1066-1a10-c4ddf55893dc;64b44e45-4087-78e4-3992-ab140d662cba;A20.7;Septicaemic plague;A
+95be0a9a-2296-3d27-0ef8-e37ab49127c4;64b44e45-4087-78e4-3992-ab140d662cba;A20.8;Other forms of plague;A
+411e76a3-4570-37cc-23a2-47cf8a9028b8;64b44e45-4087-78e4-3992-ab140d662cba;A20.9;Plague, unspecified;A
+268125da-7b13-6a8c-915f-5200c2256d30;64b44e45-4087-78e4-3992-ab140d662cba;A21;Tularaemia;A
+3955a7e0-a4e1-8de9-6ed0-47f5d6546fe3;64b44e45-4087-78e4-3992-ab140d662cba;A21.0;Ulceroglandular tularaemia;A
+50a70897-41ad-0f28-9da3-aa13a43a451e;64b44e45-4087-78e4-3992-ab140d662cba;A21.1;Oculoglandular tularaemia;A
+3d979f91-8911-2f53-181f-a903b15e3f57;64b44e45-4087-78e4-3992-ab140d662cba;A21.2;Pulmonary tularaemia;A
+18a39d3b-5a5c-1d4b-2c4e-c766e5a3723d;64b44e45-4087-78e4-3992-ab140d662cba;A21.3;Gastrointestinal tularaemia;A
+0abafdd8-6d2c-7799-4789-179cc5594682;64b44e45-4087-78e4-3992-ab140d662cba;A21.7;Generalized tularaemia;A
+ea72a257-7588-2fe8-299c-13fa81aa7abc;64b44e45-4087-78e4-3992-ab140d662cba;A21.8;Other forms of tularaemia;A
+0eba6928-400f-4b0f-5327-0ae5e36d1d16;64b44e45-4087-78e4-3992-ab140d662cba;A21.9;Tularaemia, unspecified;A
+daa84095-6ba6-7f1a-32fc-120f7ccd307b;64b44e45-4087-78e4-3992-ab140d662cba;A22;Anthrax;A
+9bcbe1f6-72d1-90c4-8e3d-a625d5b48632;64b44e45-4087-78e4-3992-ab140d662cba;A22.0;Cutaneous anthrax;A
+434f559a-2fb9-13f0-807c-b87514195b49;64b44e45-4087-78e4-3992-ab140d662cba;A22.1;Pulmonary anthrax;A
+7663cd6b-334f-18c7-7d86-0b637dad65a8;64b44e45-4087-78e4-3992-ab140d662cba;A22.2;Gastrointestinal anthrax;A
+2a78aa35-8b4d-0953-0b53-c0102f16741a;64b44e45-4087-78e4-3992-ab140d662cba;A22.7;Anthrax sepsis;A
+80cb29bf-3a2e-4eab-7cfe-8b7ba188a32d;64b44e45-4087-78e4-3992-ab140d662cba;A22.8;Other forms of anthrax;A
+baa918be-a51f-a0ad-2770-ac1735054ea9;64b44e45-4087-78e4-3992-ab140d662cba;A22.9;Anthrax, unspecified;A
+a31b159f-2f9f-6888-6ade-525bccc278b4;64b44e45-4087-78e4-3992-ab140d662cba;A23;Brucellosis;A
+fdc61228-9716-9195-87ab-c4979af522da;64b44e45-4087-78e4-3992-ab140d662cba;A23.0;Brucellosis due to Brucella melitensis;A
+c9e1bab8-627a-1291-4787-a6ed85239264;64b44e45-4087-78e4-3992-ab140d662cba;A23.1;Brucellosis due to Brucella abortus;A
+27a12238-6d11-5073-663e-1faff4543e6;64b44e45-4087-78e4-3992-ab140d662cba;A23.2;Brucellosis due to Brucella suis;A
+1c2db4e3-9f4b-6449-91f5-1031106f95b1;64b44e45-4087-78e4-3992-ab140d662cba;A23.3;Brucellosis due to Brucella canis;A
+d3d8e0a1-34be-80e6-886e-a4ef2819a539;64b44e45-4087-78e4-3992-ab140d662cba;A23.8;Other brucellosis;A
+e6635f2d-78fb-868c-1a5d-f653c85ca66d;64b44e45-4087-78e4-3992-ab140d662cba;A23.9;Brucellosis, unspecified;A
+f7990a83-2519-86b6-4ea1-1c16576e7531;64b44e45-4087-78e4-3992-ab140d662cba;A24;Glanders and melioidosis;A
+ddc24c28-6d24-6baa-2bdf-413fb2e540cb;64b44e45-4087-78e4-3992-ab140d662cba;A24.0;Glanders;A
+57715161-1848-9d7a-06ce-50a9662e4cf7;64b44e45-4087-78e4-3992-ab140d662cba;A24.1;Acute and fulminating melioidosis;A
+6f954203-6777-86ad-57c9-ebec40f91f20;64b44e45-4087-78e4-3992-ab140d662cba;A24.2;Subacute and chronic melioidosis;A
+3f43affe-56be-3d07-9735-c099beab8291;64b44e45-4087-78e4-3992-ab140d662cba;A24.3;Other melioidosis;A
+dca75216-0ca7-27db-8f27-ced45e6e3b47;64b44e45-4087-78e4-3992-ab140d662cba;A24.4;Melioidosis, unspecified;A
+81cee622-2976-705b-70e1-f6a73a8c2e32;64b44e45-4087-78e4-3992-ab140d662cba;A25;Rat-bite fevers;A
+22d91271-2163-1669-a0e4-dc37df735a64;64b44e45-4087-78e4-3992-ab140d662cba;A25.0;Spirillosis;A
+dcb22206-7d04-5031-3a20-7562cd6fa71a;64b44e45-4087-78e4-3992-ab140d662cba;A25.1;Streptobacillosis;A
+a50aa020-9d4d-4513-0fff-1ac3f96843fb;64b44e45-4087-78e4-3992-ab140d662cba;A25.9;Rat-bite fever, unspecified;A
+e70eea1d-61fd-7d49-4cd3-4f4e917ea030;64b44e45-4087-78e4-3992-ab140d662cba;A26;Erysipeloid;A
+2d14e7b6-9492-2d8f-4886-168669371ae;64b44e45-4087-78e4-3992-ab140d662cba;A26.0;Cutaneous erysipeloid;A
+b230527f-8918-2873-22f4-1e307e48715c;64b44e45-4087-78e4-3992-ab140d662cba;A26.7;Erysipelothrix septicaemia;A
+cafbeebe-46b0-023e-3631-d3c886071693;64b44e45-4087-78e4-3992-ab140d662cba;A26.8;Other forms of erysipeloid;A
+ba9b2fd4-002b-24b0-2122-bc857026ef;64b44e45-4087-78e4-3992-ab140d662cba;A26.9;Erysipeloid, unspecified;A
+f7b8d0f7-88c6-8f86-32fe-ccb2d2f3590f;64b44e45-4087-78e4-3992-ab140d662cba;A27;Leptospirosis;A
+f9c60ba6-077f-2c53-2ece-d847f4f38254;64b44e45-4087-78e4-3992-ab140d662cba;A27.0;Leptospirosis icterohaemorrhagica;A
+179fdb01-019d-7b3d-9e98-5025f9eb739f;64b44e45-4087-78e4-3992-ab140d662cba;A27.8;Other forms of leptospirosis;A
+bbaa5e68-0024-02c3-8a16-492d21805c8c;64b44e45-4087-78e4-3992-ab140d662cba;A27.9;Leptospirosis, unspecified;A
+11e0e0b6-4ce3-0730-4cc1-ef9262dd51d8;64b44e45-4087-78e4-3992-ab140d662cba;A28;Other zoonotic bacterial diseases, not elsewhere classified;A
+95e76faf-4b66-0909-5bf0-bef9d32ae07;64b44e45-4087-78e4-3992-ab140d662cba;A28.0;Pasteurellosis;A
+2a384715-3170-49d3-5146-cec6ad19f2e;64b44e45-4087-78e4-3992-ab140d662cba;A28.1;Cat-scratch disease;A
+8f166cd1-54eb-0770-0246-2ab0ab5d6183;64b44e45-4087-78e4-3992-ab140d662cba;A28.2;Extraintestinal yersiniosis;A
+de700dac-6ddd-4f3d-062c-41d1c7339186;64b44e45-4087-78e4-3992-ab140d662cba;A28.8;Other specified zoonotic bacterial diseases, not elsewhere classified;A
+adf62589-6391-8d50-5c53-d849e4dc6a37;64b44e45-4087-78e4-3992-ab140d662cba;A28.9;Zoonotic bacterial disease, unspecified;A
+b87eb6f6-993f-1142-6f40-619376b1a2e3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30;Leprosy [Hansen's disease];A
+9c8d5716-1799-5017-7afa-281aa4f249ab;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.0;Indeterminate leprosy;A
+5812753a-7a88-2498-5d8b-c1b843105685;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.1;Tuberculoid leprosy;A
+96164a4d-0e50-8bd4-3422-22ce49584103;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.2;Borderline tuberculoid leprosy;A
+a089f2fa-5463-1e60-3947-a0a5e8041c47;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.3;Borderline leprosy;A
+7dc5f4a2-5131-4b56-1528-5cbdac6a4c67;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.4;Borderline lepromatous leprosy;A
+04c4a5ab-75b8-a40f-a062-9258f891340f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.5;Lepromatous leprosy;A
+7fb71f4b-53d6-309f-5573-37ba63b842f8;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.8;Other forms of leprosy;A
+ef559314-8613-23ed-6d30-1d3409c1525f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A30.9;Leprosy, unspecified;A
+a2761f9c-701a-1d03-34c4-f3fdba2d77ae;31bff161-2fa5-4847-7fcb-0c1c7c212548;A31;Infection due to other mycobacteria;A
+91e2ffdc-3175-3328-1a06-91c8ee018e1d;31bff161-2fa5-4847-7fcb-0c1c7c212548;A31.0;Pulmonary mycobacterial infection;A
+4dfde913-9fef-7132-6597-8267487d168f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A31.1;Cutaneous mycobacterial infection;A
+33baedd6-89c8-487e-945f-9172c027807f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A31.8;Other mycobacterial infections;A
+5ef9f973-6897-a07b-7463-cc4d0d612fc0;31bff161-2fa5-4847-7fcb-0c1c7c212548;A31.9;Mycobacterial infection, unspecified;A
+0b524f79-a688-2f5e-6733-fa9c1e1226d1;31bff161-2fa5-4847-7fcb-0c1c7c212548;A32;Listeriosis;A
+12acc406-8a5b-99ef-0b1e-6607354693c6;31bff161-2fa5-4847-7fcb-0c1c7c212548;A32.0;Cutaneous listeriosis;A
+69852fa9-81e4-0924-3138-64a5d52e5527;31bff161-2fa5-4847-7fcb-0c1c7c212548;A32.1;Listerial meningitis and meningoencephalitis;A
+ef082919-86b5-7895-3011-516043438762;31bff161-2fa5-4847-7fcb-0c1c7c212548;A32.7;Listerial septicaemia;A
+4be903d2-4d17-7248-40ab-a4bd462232e8;31bff161-2fa5-4847-7fcb-0c1c7c212548;A32.8;Other forms of listeriosis;A
+317db0ab-724f-3c05-83be-2b2278954286;31bff161-2fa5-4847-7fcb-0c1c7c212548;A32.9;Listeriosis, unspecified;A
+1a91d962-28ec-1048-3491-e4590af088f0;31bff161-2fa5-4847-7fcb-0c1c7c212548;A33;Tetanus neonatorum;A
+bd22c200-146c-75e0-2dd4-e69c8ad7688e;31bff161-2fa5-4847-7fcb-0c1c7c212548;A34;Obstetrical tetanus;A
+6fd9d35c-9239-3283-70c8-8aba8326963d;31bff161-2fa5-4847-7fcb-0c1c7c212548;A35;Other tetanus;A
+7592891c-19b1-4bf0-897f-e7070c6e1d34;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36;Diphtheria;A
+b5d6bbcd-1204-2ec6-2a91-e90cfe3678c5;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36.0;Pharyngeal diphtheria;A
+d015038a-5905-1714-358e-6605a6143a87;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36.1;Nasopharyngeal diphtheria;A
+784e4d57-0439-4bd5-9084-9633a3807fd;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36.2;Laryngeal diphtheria;A
+f1c33ec1-0956-1e7f-8127-f36e8c0f3c6f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36.3;Cutaneous diphtheria;A
+545d37a4-3e2b-4bf1-41b2-049ebfee3010;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36.8;Other diphtheria;A
+0f68de64-68dc-88a9-8fea-208d718a9040;31bff161-2fa5-4847-7fcb-0c1c7c212548;A36.9;Diphtheria, unspecified;A
+ef83332c-4bf5-09b1-3d8b-6b13ebef1644;31bff161-2fa5-4847-7fcb-0c1c7c212548;A37;Whooping cough;A
+3acbb5cd-0f83-7136-3222-1482a15832f3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A37.0;Whooping cough due to Bordetella pertussis;A
+74f96ede-55fe-7a54-7da3-5311424022d5;31bff161-2fa5-4847-7fcb-0c1c7c212548;A37.1;Whooping cough due to Bordetella parapertussis;A
+c5cbe4e5-7624-6569-7127-57fd0a2a3aae;31bff161-2fa5-4847-7fcb-0c1c7c212548;A37.8;Whooping cough due to other Bordetella species;A
+05a6f89a-8cb8-11c2-21d6-cbbc1d1e134f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A37.9;Whooping cough, unspecified;A
+24d31052-7383-54ca-0e10-97e0906970c9;31bff161-2fa5-4847-7fcb-0c1c7c212548;A38;Scarlet fever;A
+f0242e9f-0e52-3bdb-2e64-1702cd8d5c3e;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39;Meningococcal infection;A
+0c49b12e-5f6c-85a9-5667-c78289d56831;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.0;Meningococcal meningitis (G01*);A
+aff11efe-9f24-7e12-a089-a79b3c75771a;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.1;Waterhouse-Friderichsen syndrome (E35.1*);A
+9b3ca6d5-4057-7ba7-8e47-13a623d53de3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.2;Acute meningococcaemia;A
+cc88c48f-9806-9557-74ff-8dab9a91a715;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.3;Chronic meningococcaemia;A
+86a3e22e-5a50-3847-9338-d567c0638af3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.4;Meningococcaemia, unspecified;A
+f751a064-a2e6-23a6-5207-c3fbef56133;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.5;Meningococcal heart disease;A
+25934c50-4b36-3d70-7242-cf7c01ad9ec;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.8;Other meningococcal infections;A
+b6b223b0-4590-3e6b-1e4b-b94a74d276d5;31bff161-2fa5-4847-7fcb-0c1c7c212548;A39.9;Meningococcal infection, unspecified;A
+c8079ff1-970a-3b0e-3ea3-15468e2454c5;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40;Streptococcal sepsis;A
+1aeee0d2-a287-27b1-0f64-77cd7b164f86;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40.0;Sepsis due to streptococcus, group A;A
+a1fb5463-2132-6a6c-7e61-074ac8621dca;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40.1;Sepsis due to streptococcus, group B;A
+9d70ee78-475e-3ff2-a07b-5e6929a214d8;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40.2;Sepsis due to streptococcus, group D;A
+72984a1d-85f7-3c89-3615-6b6610094ec6;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40.3;Sepsis due to Streptococcus pneumoniae;A
+6bcf32f4-5264-1f35-5ddc-f6e175ea7a88;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40.8;Other streptococcal sepsis;A
+64db4fb8-a51f-3b05-6591-fc86a3bd336f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A40.9;Streptococcal sepsis, unspecified;A
+56fdbbc2-1f82-a696-1ac3-34bf075c6c18;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41;Other sepsis;A
+69fe1242-08f1-46a1-2596-048b33773c45;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.0;Sepsis due to Staphylococcus aureus;A
+fe496e35-929c-4f6c-02f3-f23f926d162c;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.1;Sepsis due to other specified staphylococcus;A
+8f88b0bb-48bf-09ca-84c3-573a1ff54f08;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.2;Sepsis due to unspecified staphylococcus;A
+be2e8e87-2905-5d40-816d-8e75a31c9419;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.3;Sepsis due to Haemophilus influenzae;A
+b69e13d9-961b-8529-6c5e-7c35f0577462;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.4;Sepsis due to anaerobes;A
+191a9cc0-a66c-188f-637b-f0889c3d975c;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.5;Sepsis due to other Gram-negative organisms;A
+17f8c308-1582-1f4a-18cc-5ff68b9174d7;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.8;Other specified sepsis;A
+dce11c7b-35cf-60e8-2ea9-0e1095571557;31bff161-2fa5-4847-7fcb-0c1c7c212548;A41.9;Sepsis, unspecified;A
+e26ce136-6ea3-342a-2c7a-ff4319ea68e2;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42;Actinomycosis;A
+3d2f98c6-a2a4-1cb8-6603-8b016beb18f3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42.0;Pulmonary actinomycosis;A
+1cd65417-133b-7ba0-0c87-91861023690b;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42.1;Abdominal actinomycosis;A
+4d72ccfa-3d38-5250-82a2-0f13c0253d7c;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42.2;Cervicofacial actinomycosis;A
+c71d7fc9-4241-9b3a-8810-2d847e0d8c6;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42.7;Actinomycotic sepsis;A
+bb0a43b6-02ab-8b73-9123-d4a427eb87bf;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42.8;Other forms of actinomycosis;A
+030a6041-1d07-24d0-5f84-f42336b7a407;31bff161-2fa5-4847-7fcb-0c1c7c212548;A42.9;Actinomycosis, unspecified;A
+5a43e085-85b6-9d69-70d4-f20e2487a161;31bff161-2fa5-4847-7fcb-0c1c7c212548;A43;Nocardiosis;A
+8f267975-3bcc-4700-8645-14b2406637e3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A43.0;Pulmonary nocardiosis;A
+bc3c9319-7a37-9cdc-a73a-cb36db8d3989;31bff161-2fa5-4847-7fcb-0c1c7c212548;A43.1;Cutaneous nocardiosis;A
+51930bb4-1e99-8734-9149-a822484e958;31bff161-2fa5-4847-7fcb-0c1c7c212548;A43.8;Other forms of nocardiosis;A
+10df7d97-1da3-8461-33d2-95fef8f08fa2;31bff161-2fa5-4847-7fcb-0c1c7c212548;A43.9;Nocardiosis, unspecified;A
+9b9219cf-2460-1d8a-93ff-3bd37c1926a3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A44;Bartonellosis;A
+528ae8fa-48ec-80a1-4e47-2b9653233efd;31bff161-2fa5-4847-7fcb-0c1c7c212548;A44.0;Systemic bartonellosis;A
+6c27ad79-85a6-1aec-07d1-a9d5bad7666c;31bff161-2fa5-4847-7fcb-0c1c7c212548;A44.1;Cutaneous and mucocutaneous bartonellosis;A
+6dd75ca7-7884-a1f9-1273-0eff12996630;31bff161-2fa5-4847-7fcb-0c1c7c212548;A44.8;Other forms of bartonellosis;A
+ebd77af5-4917-6490-9669-7ec0f15e210c;31bff161-2fa5-4847-7fcb-0c1c7c212548;A44.9;Bartonellosis, unspecified;A
+93e08e44-6774-7fca-386f-39a273d51cc2;31bff161-2fa5-4847-7fcb-0c1c7c212548;A46;Erysipelas;A
+9522f74a-5faf-0da6-684b-4475b1237b3;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48;Other bacterial diseases, not elsewhere classified;A
+d2ae7b8c-30f5-3b76-18f0-d4a182e5415f;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48.0;Gas gangrene;A
+4f551468-8bf4-a001-821c-d232ac833d2c;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48.1;Legionnaires' disease;A
+1f9b9ca7-a702-472e-4294-3c925fcb344b;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48.2;Nonpneumonic Legionnaires' disease [Pontiac fever];A
+4ce33836-2c73-3004-3a11-e48771202df0;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48.3;Toxic shock syndrome;A
+c6620af4-0b14-25de-2c7e-ea06328091ae;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48.4;Brazilian purpuric fever;A
+ab291a27-771d-58a8-388c-2f880894568a;31bff161-2fa5-4847-7fcb-0c1c7c212548;A48.8;Other specified bacterial diseases;A
+7d8f51ec-7ce4-a6fd-108e-74f3ab8c52fc;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49;Bacterial infection of unspecified site;A
+e29a8901-8dbc-8b9f-7dcb-c81543546ccd;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49.0;Staphylococcal infection, unspecified site;A
+1c1675c8-0773-70d6-5b3f-fec6e0a17234;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49.1;Streptococcal infection, unspecified site;A
+823c7f96-4c94-9f50-1da1-85dea9466be0;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49.2;Haemophilus influenzae infection, unspecified site;A
+7f4869de-3a1b-39ae-8f5d-b101f37e5766;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49.3;Mycoplasma infection, unspecified site;A
+37699ef7-7e5f-786a-5bff-8f5c2fda1eb7;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49.8;Other bacterial infections of unspecified site;A
+5aaf3673-13ce-0c46-9926-233c2c4bc35;31bff161-2fa5-4847-7fcb-0c1c7c212548;A49.9;Bacterial infection, unspecified;A
+82a78726-0720-3d90-9ea2-17a06edc1f35;5673974f-95b8-026a-904b-2b7b67633cbd;A50;Congenital syphilis;A
+5ced4abd-8dfd-7b5c-29bb-2d884e1f16f8;5673974f-95b8-026a-904b-2b7b67633cbd;A50.0;Early congenital syphilis, symptomatic;A
+7d07e85a-0a4a-0bea-5a71-c8fa4033505f;5673974f-95b8-026a-904b-2b7b67633cbd;A50.1;Early congenital syphilis, latent;A
+d70ed2b5-7d7e-335a-4ee7-a851d01f5bc1;5673974f-95b8-026a-904b-2b7b67633cbd;A50.2;Early congenital syphilis, unspecified;A
+fbbfeec1-83bf-919f-585d-835b60aa5682;5673974f-95b8-026a-904b-2b7b67633cbd;A50.3;Late congenital syphilitic oculopathy;A
+9a625d6c-3c47-172a-914a-3e87e5259832;5673974f-95b8-026a-904b-2b7b67633cbd;A50.4;Late congenital neurosyphilis [juvenile neurosyphilis];A
+8189267e-35ae-2cf9-1f6b-8c02da687e92;5673974f-95b8-026a-904b-2b7b67633cbd;A50.5;Other late congenital syphilis, symptomatic;A
+2b112dac-7cf0-0b25-7aa4-0ebac8c55f88;5673974f-95b8-026a-904b-2b7b67633cbd;A50.6;Late congenital syphilis, latent;A
+6cfb30b3-4868-0893-127f-86f53bef149c;5673974f-95b8-026a-904b-2b7b67633cbd;A50.7;Late congenital syphilis, unspecified;A
+dc07344c-604e-085e-809d-e9a952bc6d82;5673974f-95b8-026a-904b-2b7b67633cbd;A50.9;Congenital syphilis, unspecified;A
+ec7bfa74-3605-8ff0-a193-acefb36091fb;5673974f-95b8-026a-904b-2b7b67633cbd;A51;Early syphilis;A
+9ff697d2-4326-5283-17ee-9b2eb5fd2983;5673974f-95b8-026a-904b-2b7b67633cbd;A51.0;Primary genital syphilis;A
+775cf955-4b18-987c-60db-a09fa79e2382;5673974f-95b8-026a-904b-2b7b67633cbd;A51.1;Primary anal syphilis;A
+8539301a-257d-0fc8-6d29-5d7fc3d9548c;5673974f-95b8-026a-904b-2b7b67633cbd;A51.2;Primary syphilis of other sites;A
+eefb1a67-52d9-8ac3-4278-3617b2ec1572;5673974f-95b8-026a-904b-2b7b67633cbd;A51.3;Secondary syphilis of skin and mucous membranes;A
+5f8e883a-8898-6b12-52f2-ff25cbc87dda;5673974f-95b8-026a-904b-2b7b67633cbd;A51.4;Other secondary syphilis;A
+d086961f-732a-6ce5-8bd1-be7d374650c0;5673974f-95b8-026a-904b-2b7b67633cbd;A51.5;Early syphilis, latent;A
+8c85f79c-6708-22a9-3b90-2cdb184c1567;5673974f-95b8-026a-904b-2b7b67633cbd;A51.9;Early syphilis, unspecified;A
+8f3675fd-4c49-07b2-0e66-8503215956c0;5673974f-95b8-026a-904b-2b7b67633cbd;A52;Late syphilis;A
+766b6b6c-7e99-0ce3-085c-d0e5894a29cc;5673974f-95b8-026a-904b-2b7b67633cbd;A52.0;Cardiovascular syphilis;A
+d7f77950-02bc-6c75-42a7-819dedb42c0;5673974f-95b8-026a-904b-2b7b67633cbd;A52.1;Symptomatic neurosyphilis;A
+f189f701-5c62-9ac8-572f-1a73acf5952d;5673974f-95b8-026a-904b-2b7b67633cbd;A52.2;Asymptomatic neurosyphilis;A
+22cc68b3-25b1-34f9-6b25-fb4313439a3f;5673974f-95b8-026a-904b-2b7b67633cbd;A52.3;Neurosyphilis, unspecified;A
+7da3a1a5-968b-1495-7942-567b0826a755;5673974f-95b8-026a-904b-2b7b67633cbd;A52.7;Other symptomatic late syphilis;A
+96961e9c-9d72-0540-9158-4f2b24cc7b10;5673974f-95b8-026a-904b-2b7b67633cbd;A52.8;Late syphilis, latent;A
+65e5a8a7-4ac7-4cc8-a4fb-a755737d400f;5673974f-95b8-026a-904b-2b7b67633cbd;A52.9;Late syphilis, unspecified;A
+44447fd1-7389-041a-1d52-b38622793744;5673974f-95b8-026a-904b-2b7b67633cbd;A53;Other and unspecified syphilis;A
+aaa10b30-a0e7-41e1-2a8f-a3b3aa7a4763;5673974f-95b8-026a-904b-2b7b67633cbd;A53.0;Latent syphilis, unspecified as early or late;A
+3bfce6ae-24d9-7a34-0e5f-924b0d4b5eb9;5673974f-95b8-026a-904b-2b7b67633cbd;A53.9;Syphilis, unspecified;A
+06fafee8-0a02-5a58-2d11-3a6468db6866;5673974f-95b8-026a-904b-2b7b67633cbd;A54;Gonococcal infection;A
+f94f1ac5-9ed6-1a4d-410d-11f620125f62;5673974f-95b8-026a-904b-2b7b67633cbd;A54.0;Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess;A
+e1d77e24-5119-2ce6-0213-b37fd643a048;5673974f-95b8-026a-904b-2b7b67633cbd;A54.1;Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess;A
+64adfe51-2dfb-a2a4-1697-ecfcee8c8280;5673974f-95b8-026a-904b-2b7b67633cbd;A54.2;Gonococcal pelviperitonitis and other gonococcal genitourinary infections;A
+48cd3ba2-8576-3d66-0c8e-94a744548370;5673974f-95b8-026a-904b-2b7b67633cbd;A54.3;Gonococcal infection of eye;A
+2881e043-1450-9714-41d0-5120782aefc;5673974f-95b8-026a-904b-2b7b67633cbd;A54.4;Gonococcal infection of musculoskeletal system;A
+4a38e80c-6d7c-0538-44ec-55115a8f8de7;5673974f-95b8-026a-904b-2b7b67633cbd;A54.5;Gonococcal pharyngitis;A
+f6819b29-3d84-64d6-89b2-62bad5a97742;5673974f-95b8-026a-904b-2b7b67633cbd;A54.6;Gonococcal infection of anus and rectum;A
+b4fb37ad-2a9d-a2d5-8930-5de3f7d79ad9;5673974f-95b8-026a-904b-2b7b67633cbd;A54.8;Other gonococcal infections;A
+bccdb675-a6ac-1979-4592-bd4aaf4da1bd;5673974f-95b8-026a-904b-2b7b67633cbd;A54.9;Gonococcal infection, unspecified;A
+f70dabb0-151d-310d-20fe-7802ca3e7289;5673974f-95b8-026a-904b-2b7b67633cbd;A55;Chlamydial lymphogranuloma (venereum);A
+0717c86d-6efe-2ca9-99b5-c0d75d76619;5673974f-95b8-026a-904b-2b7b67633cbd;A56;Other sexually transmitted chlamydial diseases;A
+17a2fa6b-481a-6f45-0fd0-697930b4e4d;5673974f-95b8-026a-904b-2b7b67633cbd;A56.0;Chlamydial infection of lower genitourinary tract;A
+4ca9e927-8e59-62ce-745b-7303c7df7621;5673974f-95b8-026a-904b-2b7b67633cbd;A56.1;Chlamydial infection of pelviperitoneum and other genitourinary organs;A
+50e67cf4-4702-009c-98b2-563c1d639811;5673974f-95b8-026a-904b-2b7b67633cbd;A56.2;Chlamydial infection of genitourinary tract, unspecified;A
+0935ba09-8157-166f-6ca1-b7952d1c5839;5673974f-95b8-026a-904b-2b7b67633cbd;A56.3;Chlamydial infection of anus and rectum;A
+328c7fa0-54b6-211d-8468-8a5c66e07d9b;5673974f-95b8-026a-904b-2b7b67633cbd;A56.4;Chlamydial infection of pharynx;A
+a35a3754-1f69-14b9-93eb-4f7c3841a441;5673974f-95b8-026a-904b-2b7b67633cbd;A56.8;Sexually transmitted chlamydial infection of other sites;A
+157543b3-8c7d-3ff9-9e7c-1bfb81527432;5673974f-95b8-026a-904b-2b7b67633cbd;A57;Chancroid;A
+ec3566c8-780f-8574-94f5-d2e0197294e7;5673974f-95b8-026a-904b-2b7b67633cbd;A58;Granuloma inguinale;A
+7fbf6d27-457a-44f3-4364-c30f1840326a;5673974f-95b8-026a-904b-2b7b67633cbd;A59;Trichomoniasis;A
+b439e9e1-8a87-a163-4c8c-bca4b2174d6e;5673974f-95b8-026a-904b-2b7b67633cbd;A59.0;Urogenital trichomoniasis;A
+b47574c4-64d1-534d-88bf-cfe45ba21a39;5673974f-95b8-026a-904b-2b7b67633cbd;A59.8;Trichomoniasis of other sites;A
+de6a610b-31c8-8c4b-a67c-27f12ebf5c25;5673974f-95b8-026a-904b-2b7b67633cbd;A59.9;Trichomoniasis, unspecified;A
+97c414c7-3b89-0b29-9e6c-21f82b667807;5673974f-95b8-026a-904b-2b7b67633cbd;A60;Anogenital herpesviral [herpes simplex] infection;A
+ffed6e30-2d1d-7797-7c52-0df39f10a595;5673974f-95b8-026a-904b-2b7b67633cbd;A60.0;Herpesviral infection of genitalia and urogenital tract;A
+3f33790a-3b25-0285-45c1-3e4d92985faf;5673974f-95b8-026a-904b-2b7b67633cbd;A60.1;Herpesviral infection of perianal skin and rectum;A
+b8f109d1-5364-17b0-2368-b5a7809f5107;5673974f-95b8-026a-904b-2b7b67633cbd;A60.9;Anogenital herpesviral infection, unspecified;A
+c0315738-721f-4a5c-82bb-d664ebc610c4;5673974f-95b8-026a-904b-2b7b67633cbd;A63;Other predominantly sexually transmitted diseases, not elsewhere classified;A
+f2ed4c75-0cb6-803b-522d-171b39e47e3e;5673974f-95b8-026a-904b-2b7b67633cbd;A63.0;Anogenital (venereal) warts;A
+5f979dad-0922-6e88-08b1-f025b7359187;5673974f-95b8-026a-904b-2b7b67633cbd;A63.8;Other specified predominantly sexually transmitted diseases;A
+d4eed09b-398e-7d6a-4d87-eb80d45a9043;5673974f-95b8-026a-904b-2b7b67633cbd;A64;Unspecified sexually transmitted disease;A
+63ee6bc9-40f0-9edb-4833-a4961dad3acc;7923b288-0462-95d9-61be-8308a6cc210b;A65;Nonvenereal syphilis;A
+3e58e001-28b9-0900-0447-95e778242aae;7923b288-0462-95d9-61be-8308a6cc210b;A66;Yaws;A
+426350a1-777b-2b71-492d-dd5cf9d89a02;7923b288-0462-95d9-61be-8308a6cc210b;A66.0;Initial lesions of yaws;A
+2342076d-6d55-5a16-8f33-aba60f9a3b08;7923b288-0462-95d9-61be-8308a6cc210b;A66.1;Multiple papillomata and wet crab yaws;A
+23b2bc8e-660c-66e3-6f83-f071bd656502;7923b288-0462-95d9-61be-8308a6cc210b;A66.2;Other early skin lesions of yaws;A
+8ec55125-873b-3f9b-1bfb-38a4630544ee;7923b288-0462-95d9-61be-8308a6cc210b;A66.3;Hyperkeratosis of yaws;A
+f15b0ca0-8655-68c4-3b19-d2054d7e3b81;7923b288-0462-95d9-61be-8308a6cc210b;A66.4;Gummata and ulcers of yaws;A
+7a39e489-5e9e-9852-a365-e8af778be9a;7923b288-0462-95d9-61be-8308a6cc210b;A66.5;Gangosa;A
+4ca47fde-119d-1047-454b-5ee763b7472d;7923b288-0462-95d9-61be-8308a6cc210b;A66.6;Bone and joint lesions of yaws;A
+4b7d0bfe-a738-2364-374d-a37f86a66343;7923b288-0462-95d9-61be-8308a6cc210b;A66.7;Other manifestations of yaws;A
+62db5527-a071-83d8-8614-9e24c046789d;7923b288-0462-95d9-61be-8308a6cc210b;A66.8;Latent yaws;A
+93631e82-9b50-871e-977b-adeedf337fdc;7923b288-0462-95d9-61be-8308a6cc210b;A66.9;Yaws, unspecified;A
+e213ae5f-72b1-37f1-41e9-1e91d33c1f97;7923b288-0462-95d9-61be-8308a6cc210b;A67;Pinta [carate];A
+def540fa-091a-a10e-9ad0-0431abf09758;7923b288-0462-95d9-61be-8308a6cc210b;A67.0;Primary lesions of pinta;A
+482dd50e-003b-61a5-398c-8319ddfc5782;7923b288-0462-95d9-61be-8308a6cc210b;A67.1;Intermediate lesions of pinta;A
+31c13eee-6fdb-6ceb-91ca-16368b703962;7923b288-0462-95d9-61be-8308a6cc210b;A67.2;Late lesions of pinta;A
+61fcbcaa-0ebb-5aa1-2762-6eb97bdb6923;7923b288-0462-95d9-61be-8308a6cc210b;A67.3;Mixed lesions of pinta;A
+8970b0e2-22d2-9852-a6b0-2938315d6ce5;7923b288-0462-95d9-61be-8308a6cc210b;A67.9;Pinta, unspecified;A
+83188f12-785f-3bfd-2927-6ea6d87444ec;7923b288-0462-95d9-61be-8308a6cc210b;A68;Relapsing fevers;A
+024c89a8-2201-5f00-067d-54e1fcbe875b;7923b288-0462-95d9-61be-8308a6cc210b;A68.0;Louse-borne relapsing fever;A
+43f9a3d8-8409-601d-031d-88277a8a460f;7923b288-0462-95d9-61be-8308a6cc210b;A68.1;Tick-borne relapsing fever;A
+778c6e8f-38c2-2b86-527c-aa62b36d7e8;7923b288-0462-95d9-61be-8308a6cc210b;A68.9;Relapsing fever, unspecified;A
+c78cd03b-1935-58fb-2a31-09d5456a9a19;7923b288-0462-95d9-61be-8308a6cc210b;A69;Other spirochaetal infections;A
+b5e19639-3418-939c-2365-61bf96024477;7923b288-0462-95d9-61be-8308a6cc210b;A69.0;Necrotizing ulcerative stomatitis;A
+53de8653-3a47-4645-71b4-7fea6f7b1503;7923b288-0462-95d9-61be-8308a6cc210b;A69.1;Other Vincent's infections;A
+0eccc1ec-1d3b-5f0e-272f-68ca75cb82b5;7923b288-0462-95d9-61be-8308a6cc210b;A69.2;Lyme disease;A
+3903f7cd-3673-68c2-3fd8-51d3104964eb;7923b288-0462-95d9-61be-8308a6cc210b;A69.8;Other specified spirochaetal infections;A
+5b39a02b-5792-397b-34b1-70fc3641559c;7923b288-0462-95d9-61be-8308a6cc210b;A69.9;Spirochaetal infection, unspecified;A
+66218cb0-3b79-369c-8a46-216c54de5e72;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A70;Chlamydia psittaci infection;A
+69749f8d-7cbb-51f9-46ec-aeb4076d1161;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A71;Trachoma;A
+0c70b6b4-4bf3-5df2-339d-854dd2e59f14;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A71.0;Initial stage of trachoma;A
+ef0bded8-8deb-77a1-653a-e05385eb33ba;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A71.1;Active stage of trachoma;A
+2f38055c-55ce-72d7-8636-29887c9a76d6;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A71.9;Trachoma, unspecified;A
+8c4248de-66f5-9ff2-8805-d12ae7c08a4d;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A74;Other diseases caused by chlamydiae;A
+77763274-96b8-373e-7663-8334e3476349;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A74.0;Chlamydial conjunctivitis (H13.1*);A
+c980dacf-4aa4-6888-6bb9-ac1225092dc7;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A74.8;Other chlamydial diseases;A
+eb806373-2278-45df-10ad-0fe2aa9c60e7;4acb177b-9ee5-5717-7f88-ca5d68cb68ea;A74.9;Chlamydial infection, unspecified;A
+217c9058-1060-8e74-a751-ff300f062c37;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A75;Typhus fever;A
+3499e667-4ebd-9446-87ad-a2580cfb20a;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A75.0;Epidemic louse-borne typhus fever due to Rickettsia prowazekii;A
+919def3a-3307-79a6-93ed-8c1cb5922e7d;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A75.1;Recrudescent typhus [Brill's disease];A
+6f7a051f-076e-97d5-537f-326156994741;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A75.2;Typhus fever due to Rickettsia typhi;A
+b87c16df-4f85-3f86-3e45-90cad25c5de4;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A75.3;Typhus fever due to Rickettsia tsutsugamushi;A
+7923d45e-a127-7fc6-9cc9-858ed76d4788;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A75.9;Typhus fever, unspecified;A
+209261e2-195a-9a7d-5de1-f10dc5b5d82;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77;Spotted fever [tick-borne rickettsioses];A
+176dd7f4-5fd5-8c7d-5d47-78f266094cd3;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77.0;Spotted fever due to Rickettsia rickettsii;A
+03455f49-3369-4482-582c-210145b9afd;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77.1;Spotted fever due to Rickettsia conorii;A
+2b4d8472-8006-0f14-2036-f6206b958d4b;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77.2;Spotted fever due to Rickettsia sibirica;A
+7c3242a8-1cda-543d-9552-4d2e68c41218;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77.3;Spotted fever due to Rickettsia australis;A
+94afd7ad-0937-6f77-3792-8852dd4a9878;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77.8;Other spotted fevers;A
+3b095abf-22f9-a05c-9077-46a39fc08132;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A77.9;Spotted fever, unspecified;A
+5ecb5c03-4e4f-5a3a-35e3-773990225dbf;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A78;Q fever;A
+7235c7a5-2cbe-5b3d-363e-54cd85a51a98;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A79;Other rickettsioses;A
+0b3d8d6e-149f-6e6d-59f5-827180bf3cd8;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A79.0;Trench fever;A
+415bf9db-579d-9c0d-33b4-20b74301420f;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A79.1;Rickettsialpox due to Rickettsia akari;A
+fa3c83d5-8ea8-a0f7-9913-e87d7c9c1434;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A79.8;Other specified rickettsioses;A
+7979168a-7e71-8d13-9a4b-61d6eada5a72;0eb26cca-24c8-a23c-56be-2673eb0a95a1;A79.9;Rickettsiosis, unspecified;A
+8234fdb6-1ecb-6bbe-1f5a-83b1e25a7124;05813065-1742-2117-0b77-7b00f6185bbd;A80;Acute poliomyelitis;A
+d9b4ec11-67d0-71b6-3019-c1ec73619b08;05813065-1742-2117-0b77-7b00f6185bbd;A80.0;Acute paralytic poliomyelitis, vaccine-associated;A
+08a2557f-4639-02d1-020c-7ed4febaa35b;05813065-1742-2117-0b77-7b00f6185bbd;A80.1;Acute paralytic poliomyelitis, wild virus, imported;A
+17f53336-34b1-6a7d-44c7-6d9a2dde8c59;05813065-1742-2117-0b77-7b00f6185bbd;A80.2;Acute paralytic poliomyelitis, wild virus, indigenous;A
+6ce048b4-385b-0cd1-0dfa-6a1b93b99d15;05813065-1742-2117-0b77-7b00f6185bbd;A80.3;Acute paralytic poliomyelitis, other and unspecified;A
+772f1f1b-04c0-616c-9f67-0c51152b517;05813065-1742-2117-0b77-7b00f6185bbd;A80.4;Acute nonparalytic poliomyelitis;A
+630e700d-3c04-2cd2-21a1-7e5f9318a216;05813065-1742-2117-0b77-7b00f6185bbd;A80.9;Acute poliomyelitis, unspecified;A
+621350e5-065d-92ee-0dd1-31699fdd736e;05813065-1742-2117-0b77-7b00f6185bbd;A81;Atypical virus infections of central nervous system;A
+3119aa65-0bb0-33f2-214f-c14cd81768c6;05813065-1742-2117-0b77-7b00f6185bbd;A81.0;Creutzfeldt-Jakob disease;A
+d2a84c35-8ebb-872a-565e-54136f3b8503;05813065-1742-2117-0b77-7b00f6185bbd;A81.1;Subacute sclerosing panencephalitis;A
+20bed946-3ea2-813d-7cb3-9aa548ff4e6e;05813065-1742-2117-0b77-7b00f6185bbd;A81.2;Progressive multifocal leukoencephalopathy;A
+7c6b9333-4204-a065-825d-929d97f67a27;05813065-1742-2117-0b77-7b00f6185bbd;A81.8;Other atypical virus infections of central nervous system;A
+992501c1-38e3-1612-03f2-302ed4b19b31;05813065-1742-2117-0b77-7b00f6185bbd;A81.9;Atypical virus infection of central nervous system, unspecified;A
+82d8c98f-8bb1-776b-9135-861fe2a6182c;05813065-1742-2117-0b77-7b00f6185bbd;A82;Rabies;A
+d7fd16c1-6632-2a29-41bd-c13a3826150a;05813065-1742-2117-0b77-7b00f6185bbd;A82.0;Sylvatic rabies;A
+4e970e91-6f51-53d2-1a56-5f9bdb58139a;05813065-1742-2117-0b77-7b00f6185bbd;A82.1;Urban rabies;A
+8bf6d34d-7825-0b4c-72c0-26554d1ca071;05813065-1742-2117-0b77-7b00f6185bbd;A82.9;Rabies, unspecified;A
+2029967b-039d-1660-8f63-63d5e6361597;05813065-1742-2117-0b77-7b00f6185bbd;A83;Mosquito-borne viral encephalitis;A
+7c05b7bb-4d29-7ebe-6c8a-30f4f24a3a0e;05813065-1742-2117-0b77-7b00f6185bbd;A83.0;Japanese encephalitis;A
+bd57a9a0-0c08-8199-7aeb-3c874e197db;05813065-1742-2117-0b77-7b00f6185bbd;A83.1;Western equine encephalitis;A
+f23d7eca-186d-49c1-26eb-056c1e8689c0;05813065-1742-2117-0b77-7b00f6185bbd;A83.2;Eastern equine encephalitis;A
+47ca332f-55e8-7042-6e9e-6400dd787bbe;05813065-1742-2117-0b77-7b00f6185bbd;A83.3;St Louis encephalitis;A
+86c8f532-82fc-754d-684c-381d8f9179d;05813065-1742-2117-0b77-7b00f6185bbd;A83.4;Australian encephalitis;A
+17982ded-3524-170b-16ad-b62d28ad5b61;05813065-1742-2117-0b77-7b00f6185bbd;A83.5;California encephalitis;A
+4d102914-1f7f-3393-1a5e-f635006f65ea;05813065-1742-2117-0b77-7b00f6185bbd;A83.6;Rocio virus disease;A
+967be704-3440-14cc-1b98-cc8b9a891852;05813065-1742-2117-0b77-7b00f6185bbd;A83.8;Other mosquito-borne viral encephalitis;A
+4d80127c-5c83-21a8-1609-2bb4f66049bd;05813065-1742-2117-0b77-7b00f6185bbd;A83.9;Mosquito-borne viral encephalitis, unspecified;A
+b3580d76-9734-5404-527c-52a585c283d;05813065-1742-2117-0b77-7b00f6185bbd;A84;Tick-borne viral encephalitis;A
+84634fd0-219d-6bd3-1581-1266c0e7d27;05813065-1742-2117-0b77-7b00f6185bbd;A84.0;Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis];A
+109ef50b-8a63-9cc5-26b0-a2965fc43ec4;05813065-1742-2117-0b77-7b00f6185bbd;A84.1;Central European tick-borne encephalitis;A
+5431bff5-6ef0-4886-323a-d3874d6a3f20;05813065-1742-2117-0b77-7b00f6185bbd;A84.8;Other tick-borne viral encephalitis;A
+fffb8347-3fed-9994-139d-c0def10d75b7;05813065-1742-2117-0b77-7b00f6185bbd;A84.9;Tick-borne viral encephalitis, unspecified;A
+243741f9-6f07-003d-a30e-e7eb3e2e3de8;05813065-1742-2117-0b77-7b00f6185bbd;A85;Other viral encephalitis, not elsewhere classified;A
+22bdac37-1ff3-4302-58ed-599d57b96fae;05813065-1742-2117-0b77-7b00f6185bbd;A85.0;Enteroviral encephalitis (G05.1*);A
+fbe413ad-0e6b-5a59-9bfc-7abd845b9850;05813065-1742-2117-0b77-7b00f6185bbd;A85.1;Adenoviral encephalitis (G05.1*);A
+eec59719-78dd-203e-66e6-61eda27e494e;05813065-1742-2117-0b77-7b00f6185bbd;A85.2;Arthropod-borne viral encephalitis, unspecified;A
+a96c9882-76c2-3656-88a1-ec01bb785ded;05813065-1742-2117-0b77-7b00f6185bbd;A85.8;Other specified viral encephalitis;A
+1a5038c7-09f5-3a5c-9da9-748b156c74da;05813065-1742-2117-0b77-7b00f6185bbd;A86;Unspecified viral encephalitis;A
+9f40f680-3578-7845-75b8-3f02f07f2d06;05813065-1742-2117-0b77-7b00f6185bbd;A87;Viral meningitis;A
+c813aac3-8342-a2dc-9a9d-39e7315070ae;05813065-1742-2117-0b77-7b00f6185bbd;A87.0;Enteroviral meningitis (G02.0*);A
+380b8fef-2f38-282a-9342-47104d507cdc;05813065-1742-2117-0b77-7b00f6185bbd;A87.1;Adenoviral meningitis (G02.0*);A
+728fa5ec-5631-4221-35be-b428f9a04a45;05813065-1742-2117-0b77-7b00f6185bbd;A87.2;Lymphocytic choriomeningitis;A
+d7618d69-74b5-6ded-069d-b9282df17eb7;05813065-1742-2117-0b77-7b00f6185bbd;A87.8;Other viral meningitis;A
+ad9b2e4d-86d4-8cf6-0546-d6efe1a99733;05813065-1742-2117-0b77-7b00f6185bbd;A87.9;Viral meningitis, unspecified;A
+1f8ac1df-2af0-757c-7032-216339ff222a;05813065-1742-2117-0b77-7b00f6185bbd;A88;Other viral infections of central nervous system, not elsewhere classified;A
+1e8d0ba9-6590-3069-221d-cf00ffcf2ad0;05813065-1742-2117-0b77-7b00f6185bbd;A88.0;Enteroviral exanthematous fever [Boston exanthem];A
+c09db27e-7b91-719a-01f9-703c1692a4c6;05813065-1742-2117-0b77-7b00f6185bbd;A88.1;Epidemic vertigo;A
+42fcb5bc-4ca5-35ce-1a8e-a93517286c42;05813065-1742-2117-0b77-7b00f6185bbd;A88.8;Other specified viral infections of central nervous system;A
+015201f3-38ca-888b-4538-74afb25ebd7;05813065-1742-2117-0b77-7b00f6185bbd;A89;Unspecified viral infection of central nervous system;A
+2da9aa9f-3eb9-4fda-221f-de961db85d86;7232d021-a377-a197-0f1b-0ead85816e9e;A90;Dengue fever [classical dengue];A
+940884a5-040e-439e-6b85-6ba5002889de;7232d021-a377-a197-0f1b-0ead85816e9e;A91;Dengue haemorrhagic fever;A
+122ac993-5d9a-48f5-0126-984e175d503c;7232d021-a377-a197-0f1b-0ead85816e9e;A92;Other mosquito-borne viral fevers;A
+e2dbac03-71cc-9e2b-8a85-e79ff40d2063;7232d021-a377-a197-0f1b-0ead85816e9e;A92.0;Chikungunya virus disease;A
+7f0faf9d-9ea2-789a-87ae-815b0f171aaa;7232d021-a377-a197-0f1b-0ead85816e9e;A92.1;O'nyong-nyong fever;A
+d516f097-65ee-56c0-3537-9525e350964d;7232d021-a377-a197-0f1b-0ead85816e9e;A92.2;Venezuelan equine fever;A
+99b33923-9df1-a4fb-685d-5fccbfe527;7232d021-a377-a197-0f1b-0ead85816e9e;A92.3;West Nile virus infection;A
+a5d7e035-7042-6e3e-43db-c5300c664d53;7232d021-a377-a197-0f1b-0ead85816e9e;A92.4;Rift Valley fever;A
+5c4fd765-7206-0928-7a65-c3823dfd2eb8;7232d021-a377-a197-0f1b-0ead85816e9e;A92.8;Other specified mosquito-borne viral fevers;A
+2ceab79d-1e32-82c1-1276-ff6b0eab9223;7232d021-a377-a197-0f1b-0ead85816e9e;A92.9;Mosquito-borne viral fever, unspecified;A
+0b7365e4-519a-9e4a-249d-3e1caaf657a2;7232d021-a377-a197-0f1b-0ead85816e9e;A93;Other arthropod-borne viral fevers, not elsewhere classified;A
+af2219d1-4531-96df-37bd-6ed12ef213db;7232d021-a377-a197-0f1b-0ead85816e9e;A93.0;Oropouche virus disease;A
+793f2e49-8df6-6ede-6ce5-c7a6fd66a4fd;7232d021-a377-a197-0f1b-0ead85816e9e;A93.1;Sandfly fever;A
+55b4d7d4-7eb4-3cf1-5429-3c5aa9b88ff7;7232d021-a377-a197-0f1b-0ead85816e9e;A93.2;Colorado tick fever;A
+8dcaca18-84dc-4ec6-6f9f-fc7300ef552c;7232d021-a377-a197-0f1b-0ead85816e9e;A93.8;Other specified arthropod-borne viral fevers;A
+a352a1c8-99d0-a176-06eb-8c1d859119ff;7232d021-a377-a197-0f1b-0ead85816e9e;A94;Unspecified arthropod-borne viral fever;A
+371aacb9-0033-129b-7c84-95339ecb5e29;7232d021-a377-a197-0f1b-0ead85816e9e;A95;Yellow fever;A
+af24d178-543f-5948-7316-3efdcaa571b7;7232d021-a377-a197-0f1b-0ead85816e9e;A95.0;Sylvatic yellow fever;A
+66f2d76a-8abf-190d-4306-b56e68702652;7232d021-a377-a197-0f1b-0ead85816e9e;A95.1;Urban yellow fever;A
+aabeb8e4-a017-231e-6a4d-e9ecf1a420d0;7232d021-a377-a197-0f1b-0ead85816e9e;A95.9;Yellow fever, unspecified;A
+d742a890-9806-2b39-9e05-384eba4f4260;7232d021-a377-a197-0f1b-0ead85816e9e;A96;Arenaviral haemorrhagic fever;A
+c3885a49-a10d-43d6-8a8b-1f88751b9463;7232d021-a377-a197-0f1b-0ead85816e9e;A96.0;Junin haemorrhagic fever;A
+503abb88-1549-295b-533a-390e926d9629;7232d021-a377-a197-0f1b-0ead85816e9e;A96.1;Machupo haemorrhagic fever;A
+a920c8b8-2f44-1623-8550-1c350d87342;7232d021-a377-a197-0f1b-0ead85816e9e;A96.2;Lassa fever;A
+b52340b0-7058-2e89-8699-b5012de67a31;7232d021-a377-a197-0f1b-0ead85816e9e;A96.8;Other arenaviral haemorrhagic fevers;A
+3253b279-a63a-1bda-2b2f-01b0b08f9b26;7232d021-a377-a197-0f1b-0ead85816e9e;A96.9;Arenaviral haemorrhagic fever, unspecified;A
+3e0bf134-873d-5d9f-6b1b-8e2db4892189;7232d021-a377-a197-0f1b-0ead85816e9e;A98;Other viral haemorrhagic fevers, not elsewhere classified;A
+9480fedd-82a4-0278-0548-2563996a1a69;7232d021-a377-a197-0f1b-0ead85816e9e;A98.0;Crimean-Congo haemorrhagic fever;A
+e6a8d53e-3fb7-74e9-6422-fb0453046788;7232d021-a377-a197-0f1b-0ead85816e9e;A98.1;Omsk haemorrhagic fever;A
+61ea6cc3-4e94-6477-9197-f5ad82147741;7232d021-a377-a197-0f1b-0ead85816e9e;A98.2;Kyasanur Forest disease;A
+4ceaff20-64c9-4ed2-730c-2f8028ff6436;7232d021-a377-a197-0f1b-0ead85816e9e;A98.3;Marburg virus disease;A
+e33592d0-0e17-1342-4957-77cc6ff71823;7232d021-a377-a197-0f1b-0ead85816e9e;A98.4;Ebola virus disease;A
+1adaffbf-766c-4886-9061-5fabc6a75caf;7232d021-a377-a197-0f1b-0ead85816e9e;A98.5;Haemorrhagic fever with renal syndrome;A
+4a23505f-8a40-a1d8-1c6f-33029c9b6ffc;7232d021-a377-a197-0f1b-0ead85816e9e;A98.8;Other specified viral haemorrhagic fevers;A
+46afabb2-2773-36cc-8107-8a7b116c9cfa;7232d021-a377-a197-0f1b-0ead85816e9e;A99;Unspecified viral haemorrhagic fever;A
+ca83284d-806d-a0ee-9e3d-e06174466d1b;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00;Herpesviral [Herpes simplex] infections;A
+63e5be05-6958-189d-9cf8-593eb36ea6bf;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.0;Eczema herpeticum;A
+008cfeae-7082-0a6e-a1da-e8a9e27b878;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.1;Herpesviral vesicular dermatitis;A
+ab5b2eed-09f1-5194-8985-6dbef90239c5;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.2;Herpesviral gingivostomatitis and pharyngotonsillitis;A
+de48a489-480c-3cb3-9775-6194e53994c8;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.3;Herpesviral meningitis (G02.0*);A
+e6254a93-3a0b-8f78-8230-3298203a82e;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.4;Herpesviral encephalitis (G05.1*);A
+9f1257cf-373f-8632-05f4-4c4238825d8a;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.5;Herpesviral ocular disease;A
+34f3a891-9ed0-2b3d-0975-82b9c9961cbc;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.7;Disseminated herpesviral disease;A
+cba5f754-3f82-7018-6079-1285d3734849;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.8;Other forms of herpesviral infection;A
+6039910b-2dd0-6189-4e4e-19260373961a;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B00.9;Herpesviral infection, unspecified;A
+a20b8edd-8a08-9425-2763-b78595ffa308;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B01;Varicella [chickenpox];A
+24ecbd0f-6e67-3286-3fb6-82a38e618187;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B01.0;Varicella meningitis (G02.0*);A
+d7685edd-2fa2-5f8e-97d4-e17b430d2605;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B01.1;Varicella encephalitis (G05.1*);A
+8561f966-1bc2-267e-8089-1d71a4e35128;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B01.2;Varicella pneumonia (J17.1*);A
+3c3b9dcc-8dbf-0b4b-5648-bbfd48947aa0;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B01.8;Varicella with other complications;A
+61317b14-0bc5-1188-863a-3d5dc64765cc;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B01.9;Varicella without complication;A
+13dfc576-2f8c-796c-96fd-6d5a853ea0d4;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02;Zoster [herpes zoster];A
+7cc83a34-240c-5bd3-5589-954dbd9f3bc5;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.0;Zoster encephalitis (G05.1*);A
+eb46e8d2-1aa8-73c4-61be-59a3610f68ec;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.1;Zoster meningitis (G02.0*);A
+a3c375c9-756b-7e85-7d82-a3c75e50a12d;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.2;Zoster with other nervous system involvement;A
+25144cd7-9324-a2b0-4318-d60f48869c11;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.3;Zoster ocular disease;A
+ce17f953-7ae0-a001-4c48-4c5ac13892b3;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.7;Disseminated zoster;A
+4196f6b1-62fb-752c-917b-ebd5918c5c80;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.8;Zoster with other complications;A
+ece162ad-0c59-3e16-4140-8ba060cc78b5;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B02.9;Zoster without complication;A
+557b7df3-34a6-98aa-2715-5d638d668fdd;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B03;Smallpox;A
+25c3c7b7-9d67-08dd-0aca-0cd932eb7ede;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B04;Monkeypox;A
+61b9e9a7-5d14-334b-4f9c-42ceab1570c4;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05;Measles;A
+48b69207-192a-9cfc-0651-400c7d389223;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.0;Measles complicated by encephalitis (G05.1*);A
+810f9ee2-3d4c-15bd-084c-dafe92d83799;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.1;Measles complicated by meningitis (G02.0*);A
+9c63d3d3-5d5e-0141-83bb-fd1666645073;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.2;Measles complicated by pneumonia (J17.1*);A
+494b32ed-4dfe-7f71-5028-7406ed669674;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.3;Measles complicated by otitis media (H67.1*);A
+3c7c48cf-3500-135b-10d2-a163a1e3a2ec;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.4;Measles with intestinal complications;A
+5b035940-0b4a-4d90-30d0-55e1c6111614;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.8;Measles with other complications;A
+c9619c7a-7e9f-5cfe-0882-f20a50204d00;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B05.9;Measles without complication;A
+343da811-4ed4-81f4-7456-8ee189021488;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B06;Rubella [German measles];A
+4a74f652-7937-4141-55e4-680aaa1b4125;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B06.0;Rubella with neurological complications;A
+25b5f3cb-4449-27e4-0b4c-0db841f62d70;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B06.8;Rubella with other complications;A
+e9b9e269-33ba-674c-017a-8b1b33e66bc5;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B06.9;Rubella without complication;A
+ed51204c-0d22-3f33-9a26-b37084e273e5;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B07;Viral warts;A
+0e54a552-47e7-813d-797f-a8200cd542db;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08;Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified;A
+406a0a91-91d3-7398-149e-461b548023c8;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.0;Other orthopoxvirus infections;A
+af1b0ac4-43ae-511f-75b2-0285fb591ab6;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.1;Molluscum contagiosum;A
+2107b2a8-02f5-9956-7928-90130cad3be8;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.2;Exanthema subitum [sixth disease];A
+31af4b63-7fff-1af0-34d6-73adb12f2631;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.3;Erythema infectiosum [fifth disease];A
+d7a4fde4-9e33-63f0-924a-b71b358d44e9;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.4;Enteroviral vesicular stomatitis with exanthem;A
+50e271d5-49c7-4ee9-26a9-ad9756e78d2f;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.5;Enteroviral vesicular pharyngitis;A
+1fe16425-5e21-2bd8-a6cc-670b008b86f5;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B08.8;Other specified viral infections characterized by skin and mucous membrane lesions;A
+96a345fd-4691-0cd8-8ab6-7c75994e5ce;a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;B09;Unspecified viral infection characterized by skin and mucous membrane lesions;A
+0328ba81-955c-553a-4210-aabf405c26e5;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B15;Acute hepatitis A;A
+83fb7de8-7e51-93ac-4e21-9a05b0546c2c;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B15.0;Hepatitis A with hepatic coma;A
+6bebee57-4807-5ed4-9f05-c86415c12e42;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B15.9;Hepatitis A without hepatic coma;A
+7d44708a-5008-63d3-0b5f-5faad731879a;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B16;Acute hepatitis B;A
+017aa894-5ab4-6ba5-0c2e-6c2610fb74f4;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B16.0;Acute hepatitis B with delta-agent (coinfection) with hepatic coma;A
+34356707-41ae-87a9-87f0-ee77d3c58d2d;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B16.1;Acute hepatitis B with delta-agent (coinfection) without hepatic coma;A
+f923ba2a-8884-30f8-69ae-b80236664dff;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B16.2;Acute hepatitis B without delta-agent with hepatic coma;A
+34b1d95e-0709-736d-04b9-174a943b4747;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B16.9;Acute hepatitis B without delta-agent and without hepatic coma;A
+9a1481f6-003c-2f50-3c8e-dae28a0f98a7;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B17;Other acute viral hepatitis;A
+961c8bd7-77a8-9fa4-96bb-b99e86485976;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B17.0;Acute delta-(super)infection of hepatitis B carrier;A
+19bc884c-9c9e-4a26-9645-0535c1968af9;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B17.1;Acute hepatitis C;A
+d7921eac-8808-9832-702c-1eb76e968b55;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B17.2;Acute hepatitis E;A
+b969f9db-1fca-90df-3994-3bcb2d0e2b21;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B17.8;Other specified acute viral hepatitis;A
+e2bf9e90-36d9-a375-4d8a-22f6b8928629;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B17.9;Acute viral hepatitis, unspecified;A
+04cafca0-2ec5-35b3-88d5-614c0ea6242b;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B18;Chronic viral hepatitis;A
+cb5d9238-7746-9a60-375e-724195bc23ac;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B18.0;Chronic viral hepatitis B with delta-agent;A
+8f4f1d5b-1c0b-591b-270b-1989edd31821;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B18.1;Chronic viral hepatitis B without delta-agent;A
+50ff0da8-6d38-356f-543c-6040498c99ce;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B18.2;Chronic viral hepatitis C;A
+c9b8bdee-4a87-a247-033d-96fe35b99f3c;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B18.8;Other chronic viral hepatitis;A
+df827e35-2e40-0833-a3c7-17abb7d55036;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B18.9;Chronic viral hepatitis, unspecified;A
+d8a75e82-94d3-8f7a-44da-678c141e2d8e;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B19;Unspecified viral hepatitis;A
+cfed1716-2661-88a4-5bb4-72fcb08b31cf;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B19.0;Unspecified viral hepatitis with hepatic coma;A
+0703d00a-6102-19d5-999d-d2b7fa4e56dd;c44fa762-1f39-3f71-4ee1-97d00d5e5273;B19.9;Unspecified viral hepatitis without hepatic coma;A
+8c853b47-7ce2-1f32-4d25-73fad60e4fda;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20;Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases;A
+28027963-1708-18a0-4caa-2c1206d1254d;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.0;HIV disease resulting in mycobacterial infection;A
+fe8623f8-63b7-2a1a-2e30-f1f8a61e752e;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.1;HIV disease resulting in other bacterial infections;A
+51eca10a-5fb1-1e9c-032a-be9670c14833;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.2;HIV disease resulting in cytomegaloviral disease;A
+c8f717b4-9803-38bc-6c98-ca3470de1091;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.3;HIV disease resulting in other viral infections;A
+bb9e5e2a-6df7-6601-9169-02925fff49fe;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.4;HIV disease resulting in candidiasis;A
+72359545-2547-27b4-51db-769e963b6552;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.5;HIV disease resulting in other mycoses;A
+f28b59f9-6469-9cd4-0a38-cca8e49384e5;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.6;HIV disease resulting in Pneumocystis jirovecii pneumonia;A
+ecf6358d-99a3-41be-6719-2c26bb1352eb;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.7;HIV disease resulting in multiple infections;A
+9fa74ba7-8ca6-9587-64f4-ede77719298a;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.8;HIV disease resulting in other infectious and parasitic diseases;A
+fad9b458-5cd7-562d-56b2-922c73809ff2;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B20.9;HIV disease resulting in unspecified infectious or parasitic disease;A
+75972c73-140f-6731-9054-e26a79ba94cc;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21;Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms;A
+155a6dc1-8d97-8711-7b69-f9fb77f78360;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.0;HIV disease resulting in Kaposi's sarcoma;A
+c0b7dc5b-6ebe-3ade-0e7a-5851ac25a3b7;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.1;HIV disease resulting in Burkitt lymphoma;A
+c4c25d89-5b97-77bc-a177-dd8df0a2a2ca;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.2;HIV disease resulting in other types of non-Hodgkin lymphoma;A
+0980e1d7-1e5f-a34d-81de-5e6d0310a0f0;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.3;HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue;A
+e510d6c2-667b-959f-6e8c-e8df6d7f4746;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.7;HIV disease resulting in multiple malignant neoplasms;A
+403a90b0-311a-4d0f-421f-9f3019be585d;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.8;HIV disease resulting in other malignant neoplasms;A
+999e47e0-862b-5173-80be-d17f1e0d482d;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B21.9;HIV disease resulting in unspecified malignant neoplasm;A
+9e8beaa3-690e-79b8-4174-57a9fcbc9923;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B22;Human immunodeficiency virus [HIV] disease resulting in other specified diseases;A
+5626aba4-987b-114a-0c93-f989a3443f03;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B22.0;HIV disease resulting in encephalopathy;A
+19ba04d1-2166-0275-631f-1d0817f33b2b;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B22.1;HIV disease resulting in lymphoid interstitial pneumonitis;A
+7114af1d-44ea-27a2-02da-19fa2a427879;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B22.2;HIV disease resulting in wasting syndrome;A
+0c13c60d-a740-6284-14f0-ffb33f8d74e;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B22.7;HIV disease resulting in multiple diseases classified elsewhere;A
+1c83d8bc-9f21-63c7-2933-8922b0657485;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B23;Human immunodeficiency virus [HIV] disease resulting in other conditions;A
+5c166a21-2f19-2d02-8bdb-c5c1b4109d8b;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B23.0;Acute HIV infection syndrome;A
+e5c5cbb6-9833-0c91-2443-4050da16227f;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B23.1;HIV disease resulting in (persistent) generalized lymphadenopathy;A
+e6690e91-24fa-68ac-1587-2dadffb54689;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B23.2;HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified;A
+92b796a3-4db8-6d6f-91f1-2ac1c46510d1;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B23.8;HIV disease resulting in other specified conditions;A
+fc1ffc89-2064-4ffb-3152-c3cc4a477a68;b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;B24;Unspecified human immunodeficiency virus [HIV] disease;A
+d231ab25-80e4-05e9-6dab-e49b130781e;79461671-02de-9801-8855-1c67fd07318c;B25;Cytomegaloviral disease;A
+723e6e26-96b9-2a67-281a-4d183e0a1fa;79461671-02de-9801-8855-1c67fd07318c;B25.0;Cytomegaloviral pneumonitis (J17.1*);A
+329e3257-7d53-77b0-5196-379ab81c5287;79461671-02de-9801-8855-1c67fd07318c;B25.1;Cytomegaloviral hepatitis (K77.0*);A
+1dc6323b-195b-127a-1636-2637be8743ce;79461671-02de-9801-8855-1c67fd07318c;B25.2;Cytomegaloviral pancreatitis (K87.1*);A
+a64aada5-82fc-5fad-74bd-6693f58519bc;79461671-02de-9801-8855-1c67fd07318c;B25.8;Other cytomegaloviral diseases;A
+3bef2da4-0a41-13d1-0681-333123bc1cc1;79461671-02de-9801-8855-1c67fd07318c;B25.9;Cytomegaloviral disease, unspecified;A
+ec1369f5-9c0a-10ab-4862-08c103296ad5;79461671-02de-9801-8855-1c67fd07318c;B26;Mumps;A
+b4e76032-73d2-a353-4214-04b0e6bca6a7;79461671-02de-9801-8855-1c67fd07318c;B26.0;Mumps orchitis (N51.1*);A
+d63ca45d-0dcf-4a7a-8e62-88935f33507a;79461671-02de-9801-8855-1c67fd07318c;B26.1;Mumps meningitis (G02.0*);A
+845d5861-21df-2da4-348d-14330df39595;79461671-02de-9801-8855-1c67fd07318c;B26.2;Mumps encephalitis (G05.1*);A
+6331c715-2ae4-3c6b-357d-2e388c90873c;79461671-02de-9801-8855-1c67fd07318c;B26.3;Mumps pancreatitis (K87.1*);A
+cf7fb8bb-1d3c-6b80-37bb-ef8a9cc4116c;79461671-02de-9801-8855-1c67fd07318c;B26.8;Mumps with other complications;A
+6001f419-0c8e-4b3e-8176-51aef85c365d;79461671-02de-9801-8855-1c67fd07318c;B26.9;Mumps without complication;A
+c7af1b7c-7c3b-599c-3983-580791406a9d;79461671-02de-9801-8855-1c67fd07318c;B27;Infectious mononucleosis;A
+732ccfa5-54f2-9621-0bf4-038dfaa573de;79461671-02de-9801-8855-1c67fd07318c;B27.0;Gammaherpesviral mononucleosis;A
+1d28c2c5-9603-a2b8-2796-717540837cea;79461671-02de-9801-8855-1c67fd07318c;B27.1;Cytomegaloviral mononucleosis;A
+2e1a711e-55a0-23c3-11e6-4de0a423a0b5;79461671-02de-9801-8855-1c67fd07318c;B27.8;Other infectious mononucleosis;A
+b2d5c34b-063c-2232-90eb-a948b503f7d;79461671-02de-9801-8855-1c67fd07318c;B27.9;Infectious mononucleosis, unspecified;A
+1f655146-395c-69fe-0ff3-5aa49bb376e2;79461671-02de-9801-8855-1c67fd07318c;B30;Viral conjunctivitis;A
+639fd7d9-4fc4-25c3-5c74-21a820282054;79461671-02de-9801-8855-1c67fd07318c;B30.0;Keratoconjunctivitis due to adenovirus (H19.2*);A
+49fa4c78-4219-1fac-830a-64daebf36302;79461671-02de-9801-8855-1c67fd07318c;B30.1;Conjunctivitis due to adenovirus (H13.1*);A
+5d0d9dd9-98c9-7eb8-3627-de778fab4351;79461671-02de-9801-8855-1c67fd07318c;B30.2;Viral pharyngoconjunctivitis;A
+e6fd2cc6-44ae-26da-6ef3-4f661ad94f04;79461671-02de-9801-8855-1c67fd07318c;B30.3;Acute epidemic haemorrhagic conjunctivitis (enteroviral) (H13.1*);A
+1c0bd220-1dc3-919b-8a0a-76397b1f6b7f;79461671-02de-9801-8855-1c67fd07318c;B30.8;Other viral conjunctivitis (H13.1*);A
+aced701b-27ca-78ff-8872-8d96b6f2715b;79461671-02de-9801-8855-1c67fd07318c;B30.9;Viral conjunctivitis, unspecified;A
+0ce1424a-1825-085c-3e37-28c3955437cd;79461671-02de-9801-8855-1c67fd07318c;B33;Other viral diseases, not elsewhere classified;A
+1c18c8b9-6e2c-2474-0034-5a30ff423027;79461671-02de-9801-8855-1c67fd07318c;B33.0;Epidemic myalgia;A
+3975ff3d-0631-8d53-0d24-1afbc3d29342;79461671-02de-9801-8855-1c67fd07318c;B33.1;Ross River disease;A
+2604da69-0a7f-8029-15cc-087c456b6af9;79461671-02de-9801-8855-1c67fd07318c;B33.2;Viral carditis;A
+02fa3d4e-5316-2801-426f-2e6d2f8777f1;79461671-02de-9801-8855-1c67fd07318c;B33.3;Retrovirus infections, not elsewhere classified;A
+705517a4-17f5-005f-0d49-90bef271237f;79461671-02de-9801-8855-1c67fd07318c;B33.4;Hantavirus (cardio-)pulmonary syndrome [HPS] [HCPS] (J17.1*);A
+6a1a1a50-4fc5-8df6-339b-5539b6e87658;79461671-02de-9801-8855-1c67fd07318c;B33.8;Other specified viral diseases;A
+23f5ed39-09b3-4520-4d88-668e908b88e7;79461671-02de-9801-8855-1c67fd07318c;B34;Viral infection of unspecified site;A
+94c69002-87db-1702-00f0-0fec0a9c712b;79461671-02de-9801-8855-1c67fd07318c;B34.0;Adenovirus infection, unspecified site;A
+3c1a8e05-9d4a-a387-797e-fabbef5e9d53;79461671-02de-9801-8855-1c67fd07318c;B34.1;Enterovirus infection, unspecified site;A
+6042418f-9878-3691-1d3d-972c6ee63ad8;79461671-02de-9801-8855-1c67fd07318c;B34.2;Coronavirus infection, unspecified site;A
+1a49d7a6-14c5-379a-8b71-c249eca776ba;79461671-02de-9801-8855-1c67fd07318c;B34.3;Parvovirus infection, unspecified site;A
+de96027f-949b-5c68-323f-d13043ed6ba2;79461671-02de-9801-8855-1c67fd07318c;B34.4;Papovavirus infection, unspecified site;A
+c30ca011-63e1-461c-6b17-04791d264606;79461671-02de-9801-8855-1c67fd07318c;B34.8;Other viral infections of unspecified site;A
+d2d1b718-3c92-7062-1eda-cdb508966b1;79461671-02de-9801-8855-1c67fd07318c;B34.9;Viral infection, unspecified;A
+d41ae752-209b-888c-3a9f-8bbbf43b6d83;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35;Dermatophytosis;A
+fd52d9b7-1f43-7b54-62bb-50f899ea2053;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.0;Tinea barbae and tinea capitis;A
+2bdc47a4-65c4-3844-124e-3ce5f5b1397a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.1;Tinea unguium;A
+9cb2acab-7a9a-15b2-1295-fed8e2abdec;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.2;Tinea manuum;A
+04e65de5-1d67-547d-59b1-b6016e7e5d8c;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.3;Tinea pedis;A
+a4b7e8d7-63e2-52ed-7fe4-c5a2defd7f9f;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.4;Tinea corporis;A
+e55717f7-6157-887a-3c7d-1be8c7457b79;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.5;Tinea imbricata;A
+70d37071-92d7-4594-7212-7c25b15ba43c;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.6;Tinea cruris;A
+1b085622-493a-3544-0b19-ea74dfdd61f2;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.8;Other dermatophytoses;A
+d372860c-1c8e-0087-01f5-f0a0288e44d8;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B35.9;Dermatophytosis, unspecified;A
+8d01e644-7392-8d31-5d42-0fa733498cd4;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36;Other superficial mycoses;A
+eacedac2-45e3-256b-1c04-f8399b123ebf;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36.0;Pityriasis versicolor;A
+4f63a9b7-2329-2b8a-67fc-dcba839d7218;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36.1;Tinea nigra;A
+93e02fd9-5a7d-2742-40dd-9dc4e0077e40;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36.2;White piedra;A
+a795be79-5cbe-2564-62a6-625dc5105b84;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36.3;Black piedra;A
+3168a28a-2633-5657-9c1c-4ec06e5c5fda;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36.8;Other specified superficial mycoses;A
+8297e2a4-49ef-3349-737e-1fd92c239f47;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B36.9;Superficial mycosis, unspecified;A
+212eca1c-74ed-6a6f-4780-58598adb2136;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37;Candidiasis;A
+77ee5efd-8adf-45d4-222c-82bc1e008d28;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.0;Candidal stomatitis;A
+490050af-6531-002b-9331-66c2aeb11b0b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.1;Pulmonary candidiasis;A
+d40437d6-9fbe-225d-8e9d-633a6597c95;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.2;Candidiasis of skin and nail;A
+95246716-53ac-a682-11e7-0b52d9994bcd;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.3;Candidiasis of vulva and vagina (N77.1*);A
+51cc6577-6abf-5e30-2516-4f7fabf642a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.4;Candidiasis of other urogenital sites;A
+fde7497a-262b-6cee-54f8-4cd86d8fa1f3;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.5;Candidal meningitis (G02.1*);A
+d475d669-574d-7444-7625-bc5015005798;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.6;Candidal endocarditis (I39.8*);A
+c4e3d096-3c10-69ee-5eb1-88cd4ebf9268;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.7;Candidal sepsis;A
+ad9990cf-0f30-08da-458c-32b9d1a52134;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.8;Candidiasis of other sites;A
+54371f53-843c-3170-72e3-82e35e233de9;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B37.9;Candidiasis, unspecified;A
+c974fc54-1c1a-7f49-735b-a74e5d8036bc;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38;Coccidioidomycosis;A
+f82b4f3d-2f9a-95d0-3336-ee34f20c6038;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.0;Acute pulmonary coccidioidomycosis;A
+df8efac6-1be6-07b6-500f-2cf5cf862a0b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.1;Chronic pulmonary coccidioidomycosis;A
+0625c5ba-8faa-4534-5c5c-71e4b50638a1;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.2;Pulmonary coccidioidomycosis, unspecified;A
+fe73aeca-9d6a-03bf-3db3-a31bf0a57ab7;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.3;Cutaneous coccidioidomycosis;A
+2fe07d17-51ed-03dc-3cc3-4af1c96a7af2;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.4;Coccidioidomycosis meningitis (G02.1*);A
+cf4cabc5-05b4-374d-1fd7-1704208023d8;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.7;Disseminated coccidioidomycosis;A
+4814925e-8640-7099-a7c2-02ee6813a220;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.8;Other forms of coccidioidomycosis;A
+4a755e48-26dc-2538-934d-a8331e8415bb;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B38.9;Coccidioidomycosis, unspecified;A
+1b869d2e-3f3a-1366-967d-03cc876424f9;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39;Histoplasmosis;A
+153c7ba0-625b-913b-3983-0b5894004484;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.0;Acute pulmonary histoplasmosis capsulati;A
+09510121-09a0-52e2-5fbc-ebf4a0631b9e;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.1;Chronic pulmonary histoplasmosis capsulati;A
+1933ee70-70fe-9517-219f-254e5a054cc4;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.2;Pulmonary histoplasmosis capsulati, unspecified;A
+4cb221f6-3cfd-2b65-0c05-f801d0fdf5a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.3;Disseminated histoplasmosis capsulati;A
+8f029813-a27b-975f-957c-907f2ca5235d;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.4;Histoplasmosis capsulati, unspecified;A
+b667df51-0891-076c-8501-ce6981b12c2c;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.5;Histoplasmosis duboisii;A
+6461f655-2493-91a7-764c-11b229e55cd2;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B39.9;Histoplasmosis, unspecified;A
+b2eb26a2-95ac-4dc6-0697-907ed7e112ab;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40;Blastomycosis;A
+82d10dac-9f33-74bb-7d8a-5da6475a470a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.0;Acute pulmonary blastomycosis;A
+f41b2992-6be1-66ef-294e-6c5a8f581f86;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.1;Chronic pulmonary blastomycosis;A
+e512faaa-07a6-2cab-10cd-73cfe9965c4b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.2;Pulmonary blastomycosis, unspecified;A
+f56cdeb9-93e1-00a1-9cdc-3ff5aa1793e0;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.3;Cutaneous blastomycosis;A
+7dc3d76c-2753-22e9-00b6-ab57def983c1;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.7;Disseminated blastomycosis;A
+43060dfd-7342-5c59-1b6e-f8db95232138;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.8;Other forms of blastomycosis;A
+ed52b1fd-0eac-855c-334d-4a5cf77d5719;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B40.9;Blastomycosis, unspecified;A
+ce4cab53-5817-26a3-8f5e-2508c93b23ce;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B41;Paracoccidioidomycosis;A
+035ed076-1b2f-8d43-2797-67acc69aa273;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B41.0;Pulmonary paracoccidioidomycosis;A
+cb42f0ca-8916-9c4a-7678-1440649f2fd7;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B41.7;Disseminated paracoccidioidomycosis;A
+25e3a7a3-680e-91af-7752-f9338caf3f84;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B41.8;Other forms of paracoccidioidomycosis;A
+47123e3c-14ca-789b-260c-d4fb6a295f1d;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B41.9;Paracoccidioidomycosis, unspecified;A
+37e7208d-32cc-567f-058e-0e3712e19ecf;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B42;Sporotrichosis;A
+538d8b74-8f83-00ea-7652-b4a279f6416b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B42.0;Pulmonary sporotrichosis (J99.8*);A
+a39055ee-2a5c-9301-4bf6-758b20238099;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B42.1;Lymphocutaneous sporotrichosis;A
+44221946-76b5-9d2e-0b59-e09edb453cb4;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B42.7;Disseminated sporotrichosis;A
+6c2ba123-2f76-787f-0db4-ebc2dbcf3fad;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B42.8;Other forms of sporotrichosis;A
+09f7380f-714e-a05c-8201-c17900dba76a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B42.9;Sporotrichosis, unspecified;A
+446d9b52-0d3b-2679-27fe-a078bdf589b5;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B43;Chromomycosis and phaeomycotic abscess;A
+4b7d95f6-4c32-2fa5-666d-989f413a4806;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B43.0;Cutaneous chromomycosis;A
+6ea436ef-6d05-9af7-29eb-486f972a2473;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B43.1;Phaeomycotic brain abscess;A
+e7419e00-6364-8de1-2333-ea04b0c1444f;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B43.2;Subcutaneous phaeomycotic abscess and cyst;A
+05483663-10a5-199f-197d-b595ad0d7b66;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B43.8;Other forms of chromomycosis;A
+87e01e4b-16aa-4c45-63c8-6e743bca419d;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B43.9;Chromomycosis, unspecified;A
+05bcb143-0e92-2e49-82a9-ce265afd6c67;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44;Aspergillosis;A
+09022d50-402b-2268-2fe5-66e107841a8b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44.0;Invasive pulmonary aspergillosis;A
+17dd00e0-11db-57a1-9397-10262cc81b75;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44.1;Other pulmonary aspergillosis;A
+05e136eb-074f-430b-2691-bed53117570c;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44.2;Tonsillar aspergillosis;A
+d84594e0-785c-8447-2648-1670b5288b86;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44.7;Disseminated aspergillosis;A
+fc6336a5-225d-8e8e-1637-411022e21f35;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44.8;Other forms of aspergillosis;A
+723ca2e6-5ad0-9a40-40f4-111021a58ad9;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B44.9;Aspergillosis, unspecified;A
+926c69e5-8661-7fd7-9a8f-c1e549936385;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45;Cryptococcosis;A
+bfa63387-5379-542a-04e3-55f9c49d9d40;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.0;Pulmonary cryptococcosis;A
+9a946fa7-a780-5ee8-65e8-312cbb7b48b1;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.1;Cerebral cryptococcosis;A
+3bd7ea87-92fa-3f19-02e3-147d12b66fc9;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.2;Cutaneous cryptococcosis;A
+42cc6486-1d23-5574-7d3a-873c7e1327db;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.3;Osseous cryptococcosis;A
+db40eb5b-48bc-2f9c-11d2-45312be324c;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.7;Disseminated cryptococcosis;A
+9d193df5-615a-2126-559b-42d8330f1c49;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.8;Other forms of cryptococcosis;A
+0847a009-308a-170c-5f6f-3435e7836eb9;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B45.9;Cryptococcosis, unspecified;A
+8844bfda-1502-2896-8916-c5bb2615677b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46;Zygomycosis;A
+3a61666a-405f-29b6-2719-4e5334fc365a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.0;Pulmonary mucormycosis;A
+7a730cdc-1019-781b-6e24-54723b6d580f;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.1;Rhinocerebral mucormycosis;A
+8b44d5f2-7f0f-161f-7c0b-272f906ea517;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.2;Gastrointestinal mucormycosis;A
+c92bdcd0-6d9f-63af-7fae-ac132c8e5422;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.3;Cutaneous mucormycosis;A
+c5d91a32-7086-806b-4c38-41ecc469a2a0;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.4;Disseminated mucormycosis;A
+4654fd72-9c87-1143-3ced-1ae5a7b2a0d9;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.5;Mucormycosis, unspecified;A
+a686567c-83ed-9f3f-4b05-0968b6e957a4;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.8;Other zygomycoses;A
+7ac1c814-12c8-9d3c-3157-69b419f58322;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B46.9;Zygomycosis, unspecified;A
+a83c2c59-3972-3fb9-7d5d-4b50f645d0a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B47;Mycetoma;A
+ead0a7b8-3209-7b32-282e-77321dc7a577;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B47.0;Eumycetoma;A
+d401aa1c-41c1-8085-202a-63af3e74164b;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B47.1;Actinomycetoma;A
+c44c20a1-695d-37a3-4986-271723cc866f;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B47.9;Mycetoma, unspecified;A
+1dd664d6-a39d-2567-506b-bfd1345da6da;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48;Other mycoses, not elsewhere classified;A
+5350aaf5-2204-9496-39d4-1dcc4b5163a5;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.0;Lobomycosis;A
+955b09bd-4a4f-1f62-44dd-9fefab7c1cc2;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.1;Rhinosporidiosis;A
+ecb3aef4-13b7-357f-1e1f-7beebd257d97;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.2;Allescheriasis;A
+8de01467-05af-69bb-9d12-1b89cbccfe6;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.3;Geotrichosis;A
+c8bcb4bd-346b-83cb-3768-ea7c93d11acb;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.4;Penicillosis;A
+74ee2d6a-4cba-1068-5599-7bd1a4be9f03;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.7;Opportunistic mycoses;A
+563569e8-1cb1-14d2-7223-bd4c142a8b00;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B48.8;Other specified mycoses;A
+6f216b18-7565-3d07-21e3-649bbb6e441a;34f9948b-2a28-562c-2d1c-49a2cc4543aa;B49;Unspecified mycosis;A
+7d1376aa-12c2-422c-34e6-451530027d98;9910c901-6613-0438-52d3-d452d0725e93;B50;Plasmodium falciparum malaria;A
+7f20cd6c-196b-5c2d-8f27-05b4e3db77e2;9910c901-6613-0438-52d3-d452d0725e93;B50.0;Plasmodium falciparum malaria with cerebral complications;A
+694315bd-418d-0f86-1b9c-24f28fa5384a;9910c901-6613-0438-52d3-d452d0725e93;B50.8;Other severe and complicated Plasmodium falciparum malaria;A
+7a690e7c-2897-07fc-21b3-b99eb1a08c1b;9910c901-6613-0438-52d3-d452d0725e93;B50.9;Plasmodium falciparum malaria, unspecified;A
+745d386b-7f63-03aa-87d9-73efedc2869;9910c901-6613-0438-52d3-d452d0725e93;B51;Plasmodium vivax malaria;A
+e784b76b-99e8-8c33-9a15-9a23e5df7dd4;9910c901-6613-0438-52d3-d452d0725e93;B51.0;Plasmodium vivax malaria with rupture of spleen;A
+c88f611e-0085-a0c6-58ac-3065edb5714d;9910c901-6613-0438-52d3-d452d0725e93;B51.8;Plasmodium vivax malaria with other complications;A
+1e5d6b22-7b23-8302-3700-1a40c6a951e3;9910c901-6613-0438-52d3-d452d0725e93;B51.9;Plasmodium vivax malaria without complication;A
+b188a153-5169-4028-8912-9bc7526639b9;9910c901-6613-0438-52d3-d452d0725e93;B52;Plasmodium malariae malaria;A
+01ca8c1f-5939-90f0-311f-ab8fc7dc5ea2;9910c901-6613-0438-52d3-d452d0725e93;B52.0;Plasmodium malariae malaria with nephropathy;A
+beac41d5-1bb7-066d-6d4b-527b726678af;9910c901-6613-0438-52d3-d452d0725e93;B52.8;Plasmodium malariae malaria with other complications;A
+5f5cc914-9ecf-102d-2882-ceadad5c48a;9910c901-6613-0438-52d3-d452d0725e93;B52.9;Plasmodium malariae malaria without complication;A
+2ab0c357-6a9a-2f29-22eb-f4e151c8a1f4;9910c901-6613-0438-52d3-d452d0725e93;B53;Other parasitologically confirmed malaria;A
+8fdfab1c-20da-1a42-0a52-f8a1a59b5781;9910c901-6613-0438-52d3-d452d0725e93;B53.0;Plasmodium ovale malaria;A
+17ac5e8a-80de-6e83-45b1-a8f441ac4cf0;9910c901-6613-0438-52d3-d452d0725e93;B53.1;Malaria due to simian plasmodia;A
+43d959fb-5b7e-6d60-68a0-3c7a321c316a;9910c901-6613-0438-52d3-d452d0725e93;B53.8;Other parasitologically confirmed malaria, not elsewhere classified;A
+e6eb1c20-02e1-864b-0c88-99c113ab21fa;9910c901-6613-0438-52d3-d452d0725e93;B54;Unspecified malaria;A
+016d1f21-6942-1855-a24e-6bcb739f468b;9910c901-6613-0438-52d3-d452d0725e93;B55;Leishmaniasis;A
+4d2388d9-14a2-8926-8fc9-d017b5bd7603;9910c901-6613-0438-52d3-d452d0725e93;B55.0;Visceral leishmaniasis;A
+599589c1-a705-1fad-a12e-ca4353ae1c59;9910c901-6613-0438-52d3-d452d0725e93;B55.1;Cutaneous leishmaniasis;A
+dc381aba-5ee1-5418-794e-a823701b8911;9910c901-6613-0438-52d3-d452d0725e93;B55.2;Mucocutaneous leishmaniasis;A
+74935443-6d1a-61f3-95cc-e634238c70b4;9910c901-6613-0438-52d3-d452d0725e93;B55.9;Leishmaniasis, unspecified;A
+ac63c5e6-40ae-9ed5-4352-71998f573b37;9910c901-6613-0438-52d3-d452d0725e93;B56;African trypanosomiasis;A
+6f603fa9-8cb9-41e5-a29f-18955a3463d0;9910c901-6613-0438-52d3-d452d0725e93;B56.0;Gambiense trypanosomiasis;A
+73d6648d-93a1-6e30-8689-78e4b3e55d73;9910c901-6613-0438-52d3-d452d0725e93;B56.1;Rhodesiense trypanosomiasis;A
+7ff90621-01fe-84b3-18a2-7ca286f09230;9910c901-6613-0438-52d3-d452d0725e93;B56.9;African trypanosomiasis, unspecified;A
+6736f585-7295-1fae-59af-b27bfcde9d1c;9910c901-6613-0438-52d3-d452d0725e93;B57;Chagas' disease;A
+84b3b364-623c-a0ea-6e81-36c6c38d546d;9910c901-6613-0438-52d3-d452d0725e93;B57.0;Acute Chagas' disease with heart involvement (I41.2*, I98.1*);A
+cb572cf7-3f96-2891-2353-2504d2636c64;9910c901-6613-0438-52d3-d452d0725e93;B57.1;Acute Chagas' disease without heart involvement;A
+723f3f02-16d4-2464-3d45-1191638f2338;9910c901-6613-0438-52d3-d452d0725e93;B57.2;Chagas' disease (chronic) with heart involvement;A
+8a6f5abb-46e2-23d6-5989-1c24d3d9738b;9910c901-6613-0438-52d3-d452d0725e93;B57.3;Chagas' disease (chronic) with digestive system involvement;A
+9137cffb-4545-47a5-4cb6-ef736a08701d;9910c901-6613-0438-52d3-d452d0725e93;B57.4;Chagas' disease (chronic) with nervous system involvement;A
+95c238f3-98e0-9cca-a439-c553c0f9a558;9910c901-6613-0438-52d3-d452d0725e93;B57.5;Chagas' disease (chronic) with other organ involvement;A
+fbcc8a30-3192-8c3b-807e-99ffedb54cdb;9910c901-6613-0438-52d3-d452d0725e93;B58;Toxoplasmosis;A
+e3aa7594-a144-9347-00ca-3623f8675975;9910c901-6613-0438-52d3-d452d0725e93;B58.0;Toxoplasma oculopathy;A
+0d4dfde8-0f43-318c-7e56-e6d96fef2699;9910c901-6613-0438-52d3-d452d0725e93;B58.1;Toxoplasma hepatitis (K77.0*);A
+4794c540-2192-6060-79d4-3d7101506f24;9910c901-6613-0438-52d3-d452d0725e93;B58.2;Toxoplasma meningoencephalitis (G05.2*);A
+c96e95a7-9171-2c38-3485-1ac1f76d1129;9910c901-6613-0438-52d3-d452d0725e93;B58.3;Pulmonary toxoplasmosis (J17.3*);A
+c8bb1ea5-1aef-7051-89cd-d40fdb6639df;9910c901-6613-0438-52d3-d452d0725e93;B58.8;Toxoplasmosis with other organ involvement;A
+96747477-584d-a106-396f-f743a9e4985a;9910c901-6613-0438-52d3-d452d0725e93;B58.9;Toxoplasmosis, unspecified;A
+6901666a-570c-94bc-8b40-d100acf6a428;9910c901-6613-0438-52d3-d452d0725e93;B59;Pneumocystosis (J17.3*);A
+6d06e316-3871-8f3d-017a-97f79b71500d;9910c901-6613-0438-52d3-d452d0725e93;B60;Other protozoal diseases, not elsewhere classified;A
+40ec2d7f-5803-5dd7-2ae9-2b40ba735ce9;9910c901-6613-0438-52d3-d452d0725e93;B60.0;Babesiosis;A
+627ca78b-973b-0b16-2940-128f196f41a2;9910c901-6613-0438-52d3-d452d0725e93;B60.1;Acanthamoebiasis;A
+15aeb474-53eb-1b11-2342-0e3cea36252e;9910c901-6613-0438-52d3-d452d0725e93;B60.2;Naegleriasis;A
+090a210b-3918-21e6-00e5-f0a473029cc0;9910c901-6613-0438-52d3-d452d0725e93;B60.8;Other specified protozoal diseases;A
+ed213957-9e63-1f48-8c3d-977331a16330;9910c901-6613-0438-52d3-d452d0725e93;B64;Unspecified protozoal disease;A
+8e9d5b15-3a01-2e4f-56d3-5193c7597439;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65;Schistosomiasis [bilharziasis];A
+c7523003-2f5b-2ec9-91f0-a88d580d4b87;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65.0;Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis];A
+c6e1466e-00e5-6a71-7123-cc5070f014b4;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65.1;Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis];A
+bb72a36b-4107-2dad-9f36-caf2dd566ac2;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65.2;Schistosomiasis due to Schistosoma japonicum;A
+ec902abc-6cba-97d9-2529-684885b2372a;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65.3;Cercarial dermatitis;A
+5bb613e8-15bf-18e2-1fca-efe2763a3037;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65.8;Other schistosomiases;A
+67c0165d-3a31-359f-1112-f8f5c96744b;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B65.9;Schistosomiasis, unspecified;A
+b786018d-09f6-3ce5-0aa4-68fe0dd35594;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66;Other fluke infections;A
+c4df0ab0-97bb-8dab-59f4-ad8ac97e81a6;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.0;Opisthorchiasis;A
+12cbec61-8a8a-2c98-2771-0b58f73d3782;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.1;Clonorchiasis;A
+2d6754f7-5a67-0b0b-850e-b1627a5949cb;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.2;Dicrocoeliasis;A
+b27d71b7-a4a9-0722-3bdf-6c87b3bc31a0;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.3;Fascioliasis;A
+847126c8-005b-5290-8c04-831d6ceb76ee;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.4;Paragonimiasis;A
+c07e6407-353e-62c7-3115-9deaabf472bc;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.5;Fasciolopsiasis;A
+f7aa5900-0421-0635-3863-92188e505feb;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.8;Other specified fluke infections;A
+d41360c3-a2ec-636f-55f2-f545d0d54d69;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B66.9;Fluke infection, unspecified;A
+3632bb5f-80ce-20c8-025f-930d80b039af;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67;Echinococcosis;A
+2dafc43e-0325-388f-58c5-0a737f4c75a4;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.0;Echinococcus granulosus infection of liver;A
+9f6959ed-a5bf-6623-8ad3-9f3203889478;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.1;Echinococcus granulosus infection of lung;A
+11a5dc41-5b3b-3473-21a3-144aad582aef;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.2;Echinococcus granulosus infection of bone;A
+fb7bcc7d-5489-8be0-666e-907d1256494;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.3;Echinococcus granulosus infection, other and multiple sites;A
+539ae4d5-6022-5c6f-0559-3dbe768f6699;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.4;Echinococcus granulosus infection, unspecified;A
+caed4c7f-5976-6b90-9077-036925b51487;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.5;Echinococcus multilocularis infection of liver;A
+d19e4f5f-44f1-3728-166f-40d02b863906;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.6;Echinococcus multilocularis infection, other and multiple sites;A
+38f25ba5-5a54-3ecf-7f04-f9b902fa9de1;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.7;Echinococcus multilocularis infection, unspecified;A
+3201b0fa-7860-6388-a6a7-6a902f87828a;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.8;Echinococcosis, unspecified, of liver;A
+bfa43e7a-a003-6132-3895-35d97e8613a2;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B67.9;Echinococcosis, other and unspecified;A
+a10f9699-5db3-0384-31b5-b57c3cc95c46;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B68;Taeniasis;A
+4c91b1ae-50bf-80e5-2558-b416c5337787;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B68.0;Taenia solium taeniasis;A
+3f20648c-7e05-093c-32f4-673ffa2b7429;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B68.1;Taenia saginata taeniasis;A
+532805af-a7a2-521b-82d4-2d1ebabad3f;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B68.9;Taeniasis, unspecified;A
+f832d32f-a54e-a7c0-6e62-3b25c8dc598;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B69;Cysticercosis;A
+6d663149-5664-9d86-7800-d8fc0f7213eb;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B69.0;Cysticercosis of central nervous system;A
+ac1c63dc-20b8-5f43-458f-fce3001a3c60;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B69.1;Cysticercosis of eye;A
+47723ebf-04bc-1052-53e1-a39a492a19a3;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B69.8;Cysticercosis of other sites;A
+28e2b970-1c14-a38c-6dab-fb7adb3c3937;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B69.9;Cysticercosis, unspecified;A
+85691e45-8fda-4dfe-291f-8fd067b744d3;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B70;Diphyllobothriasis and sparganosis;A
+1927665f-6664-7067-02e9-073089d23e62;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B70.0;Diphyllobothriasis;A
+3b838730-7f55-2ee7-0c7d-859b0bb16b78;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B70.1;Sparganosis;A
+ef28496a-1cd7-8077-67de-4afda9b5174c;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B71;Other cestode infections;A
+5709d23a-8d1a-9a0d-36a8-b3573bab3415;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B71.0;Hymenolepiasis;A
+bff9e0b2-742e-093a-15dd-3babeaeb4b51;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B71.1;Dipylidiasis;A
+fe060889-1679-a235-4423-d4ade1e76004;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B71.8;Other specified cestode infections;A
+0dc42da0-2542-753c-2cb6-4449db791741;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B71.9;Cestode infection, unspecified;A
+aa677d8b-1868-3c11-0d7e-fc82928c999d;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B72;Dracunculiasis;A
+e315a6c2-100c-6865-71c8-fd7d38da79e9;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B73;Onchocerciasis;A
+00b4a0fe-882f-76e8-8991-ea85cedca6e8;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74;Filariasis;A
+888ce2fd-6564-8304-589e-4fec8cff11c8;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.0;Filariasis due to Wuchereria bancrofti;A
+cccfdb74-2a4e-1f22-79cd-ebda2ed2224d;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.1;Filariasis due to Brugia malayi;A
+98d9d19e-3df3-825a-86a7-1076e53d4ca;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.2;Filariasis due to Brugia timori;A
+12f7923d-014a-30bb-4bfd-a829da488f0a;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.3;Loiasis;A
+91ccb034-2366-0e03-879f-1f285a719284;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.4;Mansonelliasis;A
+024862ff-66d2-34c1-2971-af641cf11102;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.8;Other filariases;A
+3eb7fb7b-a002-067c-9852-dcb34308de;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B74.9;Filariasis, unspecified;A
+3272f3f4-6d7e-02ca-038c-472aeb0983af;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B75;Trichinellosis;A
+4a38f733-3bc5-11fa-2b4b-86f4093a8e9c;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B76;Hookworm diseases;A
+24f50b41-218f-11b9-8585-b0b9270d1894;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B76.0;Ancylostomiasis;A
+3612e9ee-2e9d-8eda-67d7-a9be42778187;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B76.1;Necatoriasis;A
+1addf495-21b7-9f5e-6654-d1ec1bc26c72;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B76.8;Other hookworm diseases;A
+7169b399-94b8-932e-9918-fc7ee5fe73a1;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B76.9;Hookworm disease, unspecified;A
+ed23a9db-90af-0f59-000c-0b3593768ee3;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B77;Ascariasis;A
+3086df89-2d33-241e-68ad-4d775aa0931a;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B77.0;Ascariasis with intestinal complications;A
+a357f497-2239-8f78-4927-860ad543963d;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B77.8;Ascariasis with other complications;A
+b9cc24da-1057-5c74-8ce4-5a92f2b73881;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B77.9;Ascariasis, unspecified;A
+730ae465-126b-41e9-4a28-1e23727c3ead;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B78;Strongyloidiasis;A
+61ed4fbb-86d9-377b-0461-2016b2264cf1;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B78.0;Intestinal strongyloidiasis;A
+ec4d26b5-2150-893f-3fdf-9ba787f58237;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B78.1;Cutaneous strongyloidiasis;A
+9b6329de-8940-3281-6c58-48e975013e1a;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B78.7;Disseminated strongyloidiasis;A
+60feb17c-01a0-1969-5bda-138c47d236d8;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B78.9;Strongyloidiasis, unspecified;A
+e56b61ef-191e-1f1a-92cf-a7667de182eb;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B79;Trichuriasis;A
+3101b133-0f65-3877-2e41-75cc471f6841;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B80;Enterobiasis;A
+31717c20-2ff5-7a2a-1d99-15758d3f2f0d;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81;Other intestinal helminthiases, not elsewhere classified;A
+c526f2c7-9897-9b21-201c-de61f94f754c;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81.0;Anisakiasis;A
+a212dadd-4d1c-4edf-17e1-dec51c501288;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81.1;Intestinal capillariasis;A
+8c92a36a-3fba-4c50-6342-2850d6495147;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81.2;Trichostrongyliasis;A
+21cd85d0-53f4-5804-8f50-615126538ea9;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81.3;Intestinal angiostrongyliasis;A
+8f51ddc9-01e9-1f15-a324-ef387f418464;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81.4;Mixed intestinal helminthiases;A
+3ddac891-5e83-79a7-85e9-becec5d76438;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B81.8;Other specified intestinal helminthiases;A
+12914f50-3cea-084d-4e45-717d4f042386;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B82;Unspecified intestinal parasitism;A
+45586ea3-4ea9-a563-3898-3393a7e735e5;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B82.0;Intestinal helminthiasis, unspecified;A
+3f3b6c01-7e9b-15b4-1b8d-90c66f1f46f8;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B82.9;Intestinal parasitism, unspecified;A
+c8e5f077-15b0-40e2-9f40-6f3316d197c6;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83;Other helminthiases;A
+0a0f2460-14c5-277f-1848-87fdfc211917;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.0;Visceral larva migrans;A
+15d8b1df-10d6-9a5f-1abc-9a0a56bf28d3;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.1;Gnathostomiasis;A
+965d76b1-98f3-a1d3-6c7f-3a6e073ca203;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.2;Angiostrongyliasis due to Parastrongylus cantonensis;A
+4eb36360-7368-2e13-7e98-399452fe4073;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.3;Syngamiasis;A
+1fc3c4b0-439c-15ef-32f6-088e174b66a5;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.4;Internal hirudiniasis;A
+b288644d-2cd8-11ba-6f76-94fefe507bf6;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.8;Other specified helminthiases;A
+b73c411b-7d4f-60c4-0384-3f9aba921f84;a4fd7689-57ef-517c-59f1-9bcc1d62273f;B83.9;Helminthiasis, unspecified;A
+3c9f45ed-8ad1-8cf4-350d-47709c048cd3;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B85;Pediculosis and phthiriasis;A
+ded0f8b0-51ed-0f72-598b-051c7663a2d9;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B85.0;Pediculosis due to Pediculus humanus capitis;A
+06162cf5-15af-13d7-561b-d2fca7d73962;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B85.1;Pediculosis due to Pediculus humanus corporis;A
+163f48b8-3d66-13d5-3df3-07660abc1ea2;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B85.2;Pediculosis, unspecified;A
+bdee5fef-77c7-2067-2f4b-19c8a6122729;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B85.3;Phthiriasis;A
+ac959db0-733f-603b-7a35-6cb795b58365;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B85.4;Mixed pediculosis and phthiriasis;A
+0ab7140b-a571-300c-40eb-6089288759fb;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B86;Scabies;A
+db5f0346-8cd8-6f74-88a7-790db97a1970;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87;Myiasis;A
+6751f958-351e-684f-4e24-3259f4d379eb;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.0;Cutaneous myiasis;A
+742372d3-3802-205a-1efd-11b9390996ed;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.1;Wound myiasis;A
+7f1d9930-5f7e-43b4-1484-e2933e5620c1;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.2;Ocular myiasis;A
+be77091c-9dc2-220f-a7ac-a100e71eb57;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.3;Nasopharyngeal myiasis;A
+3caaeb0f-137e-73e5-7b2c-7e09c9021270;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.4;Aural myiasis;A
+a81bd896-8b99-9d8f-7e86-be2c70319107;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.8;Myiasis of other sites;A
+8b950331-2b29-8449-5c22-43124d9d832b;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B87.9;Myiasis, unspecified;A
+6fd1e63b-8067-834e-78af-f63edb155d3a;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88;Other infestations;A
+62f3841e-0632-6b11-4712-72bc86817f90;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88.0;Other acariasis;A
+9041f955-a570-7d63-a0ff-a9efca9633d3;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88.1;Tungiasis [sandflea infestation];A
+e68350da-0c5c-5a56-27d7-0a1b82b7403;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88.2;Other arthropod infestations;A
+f21ca5a7-6b44-3f9c-523e-87d059909b61;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88.3;External hirudiniasis;A
+8aff87b4-9099-0177-76a5-981b290a2826;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88.8;Other specified infestations;A
+54d9a4f1-0c94-2dd1-761c-383bdf7817db;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B88.9;Infestation, unspecified;A
+9d7cd458-0883-a43d-847c-784e132e7231;696e0511-6c2b-3a78-0ab1-8b6442c65c44;B89;Unspecified parasitic disease;A
+67537b34-76fd-21e2-84a5-9cf33b5e7706;f2444fd9-48de-683f-2fd4-923a77ce91ce;B90;Sequelae of tuberculosis;A
+2fc95ae8-a495-90a7-9020-926c7040959e;f2444fd9-48de-683f-2fd4-923a77ce91ce;B90.0;Sequelae of central nervous system tuberculosis;A
+9e62a859-a2df-9ca9-8931-62139431a220;f2444fd9-48de-683f-2fd4-923a77ce91ce;B90.1;Sequelae of genitourinary tuberculosis;A
+d217fa03-2629-4225-0293-3cf3bcad12d4;f2444fd9-48de-683f-2fd4-923a77ce91ce;B90.2;Sequelae of tuberculosis of bones and joints;A
+99db0596-2b53-75d5-9a8c-3218882a1340;f2444fd9-48de-683f-2fd4-923a77ce91ce;B90.8;Sequelae of tuberculosis of other organs;A
+3115370f-1280-7d39-790f-c3f001194079;f2444fd9-48de-683f-2fd4-923a77ce91ce;B90.9;Sequelae of respiratory and unspecified tuberculosis;A
+ea4cec7e-3945-75e5-2dd6-b284e3982d83;f2444fd9-48de-683f-2fd4-923a77ce91ce;B91;Sequelae of poliomyelitis;A
+7a5f2475-5f27-2bf3-8d2d-a72153ed5bd5;f2444fd9-48de-683f-2fd4-923a77ce91ce;B92;Sequelae of leprosy;A
+1121f74b-018a-209c-0805-428c2146552c;f2444fd9-48de-683f-2fd4-923a77ce91ce;B94;Sequelae of other and unspecified infectious and parasitic diseases;A
+4d0c6c56-7e7a-59cb-a0ec-1716dd835dda;f2444fd9-48de-683f-2fd4-923a77ce91ce;B94.0;Sequelae of trachoma;A
+005fcd24-86b3-3f77-904d-fe4df4ed73c1;f2444fd9-48de-683f-2fd4-923a77ce91ce;B94.1;Sequelae of viral encephalitis;A
+eaf921ed-3aa3-221c-4801-8718590112b5;f2444fd9-48de-683f-2fd4-923a77ce91ce;B94.2;Sequelae of viral hepatitis;A
+23947ad1-43a2-68fe-7a8f-b1d6b424466d;f2444fd9-48de-683f-2fd4-923a77ce91ce;B94.8;Sequelae of other specified infectious and parasitic diseases;A
+7cd62784-8063-8625-7b4b-7f97ce801427;f2444fd9-48de-683f-2fd4-923a77ce91ce;B94.9;Sequelae of unspecified infectious or parasitic disease;A
+ccb078d4-5359-8bde-387e-7be5d1186559;0bad6e48-24bf-380e-434e-61e49ca31534;B95;Streptococcus and staphylococcus as the cause of diseases classified to other chapters;A
+2de2dff0-40c7-3057-5e42-fdaec1e040c8;0bad6e48-24bf-380e-434e-61e49ca31534;B95.0;Streptococcus, group A, as the cause of diseases classified to other chapters;A
+0d134477-89f8-00c0-1513-129dfb7230eb;0bad6e48-24bf-380e-434e-61e49ca31534;B95.1;Streptococcus, group B, as the cause of diseases classified to other chapters;A
+ca1d6416-0202-578d-364e-59eda6b23713;0bad6e48-24bf-380e-434e-61e49ca31534;B95.2;Streptococcus, group D, as the cause of diseases classified to other chapters;A
+5be07674-08fd-4e48-30cf-dbb47ad5a6aa;0bad6e48-24bf-380e-434e-61e49ca31534;B95.3;Streptococcus pneumoniae as the cause of diseases classified to other chapters;A
+c022576d-5817-4b7c-218c-437667126aca;0bad6e48-24bf-380e-434e-61e49ca31534;B95.4;Other streptococcus as the cause of diseases classified to other chapters;A
+8347b092-1992-90b9-866d-e3ce318a6483;0bad6e48-24bf-380e-434e-61e49ca31534;B95.5;Unspecified streptococcus as the cause of diseases classified to other chapters;A
+39c34c25-4316-7977-87dd-1d9c50a54ed5;0bad6e48-24bf-380e-434e-61e49ca31534;B95.6;Staphylococcus aureus as the cause of diseases classified to other chapters;A
+b524d87e-35c1-4364-065c-750a046817da;0bad6e48-24bf-380e-434e-61e49ca31534;B95.7;Other staphylococcus as the cause of diseases classified to other chapters;A
+da3a4a82-880a-682b-64e6-6550147a6638;0bad6e48-24bf-380e-434e-61e49ca31534;B95.8;Unspecified staphylococcus as the cause of diseases classified to other chapters;A
+37959690-59f4-970f-08ca-8ad8188a8865;0bad6e48-24bf-380e-434e-61e49ca31534;B96;Other specified bacterial agents as the cause of diseases classified to other chapters;A
+7c420cee-25e9-9034-4b79-c64dc6403309;0bad6e48-24bf-380e-434e-61e49ca31534;B96.0;Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified to other chapters;A
+a40b1748-4c8e-4637-616b-66f5028b8f9;0bad6e48-24bf-380e-434e-61e49ca31534;B96.1;Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified to other chapters;A
+6a5320fa-227e-7a0c-7c82-bf66d06494dc;0bad6e48-24bf-380e-434e-61e49ca31534;B96.2;Escherichia coli [E. coli] as the cause of diseases classified to other chapters;A
+9ae80313-35a1-a2ac-1905-420fa2a85aa8;0bad6e48-24bf-380e-434e-61e49ca31534;B96.3;Haemophilus influenzae [H. influenzae] as the cause of diseases classified to other chapters;A
+b47a745c-1371-2783-1fc0-e5bbdd5f7788;0bad6e48-24bf-380e-434e-61e49ca31534;B96.4;Proteus (mirabilis)(morganii) as the cause of diseases classified to other chapters;A
+e4fc8bbc-a230-81ec-0625-91bd883a974;0bad6e48-24bf-380e-434e-61e49ca31534;B96.5;Pseudomonas (aeruginosa)as the cause of diseases classified to other chapters;A
+f94f0bd9-a79d-49e9-8524-1e3660f03dc3;0bad6e48-24bf-380e-434e-61e49ca31534;B96.6;Bacillus fragilis [B. fragilis] as the cause of diseases classified to other chapters;A
+94f32c25-a452-2a3e-87f5-7cd9c71c6e63;0bad6e48-24bf-380e-434e-61e49ca31534;B96.7;Clostridium perfringens [C. perfringens] as the cause of diseases classified to other chapters;A
+18bfeef1-9a17-685a-8d01-3801fb292753;0bad6e48-24bf-380e-434e-61e49ca31534;B96.8;Other specified bacterial agents as the cause of diseases classified to other chapters;A
+60dcf5f3-4008-4857-9df8-2ceca3eb63d5;0bad6e48-24bf-380e-434e-61e49ca31534;B97;Viral agents as the cause of diseases classified to other chapters;A
+e4feb542-3e7a-74af-9f83-e01cec644dad;0bad6e48-24bf-380e-434e-61e49ca31534;B97.0;Adenovirus as the cause of diseases classified to other chapters;A
+886f1661-38e8-6dc1-9863-50dd2d13304d;0bad6e48-24bf-380e-434e-61e49ca31534;B97.1;Enterovirus as the cause of diseases classified to other chapters;A
+d7bcb669-8c87-3c1a-542f-0ab705125d2d;0bad6e48-24bf-380e-434e-61e49ca31534;B97.2;Coronavirus as the cause of diseases classified to other chapters;A
+7ee863ab-64f5-9f01-654b-7d635bcf421c;0bad6e48-24bf-380e-434e-61e49ca31534;B97.3;Retrovirus as the cause of diseases classified to other chapters;A
+135017c3-7314-6cee-5d10-90b3452d511c;0bad6e48-24bf-380e-434e-61e49ca31534;B97.4;Respiratory syncytial virus as the cause of diseases classified to other chapters;A
+a7783571-33b9-2385-2290-8922c4711e34;0bad6e48-24bf-380e-434e-61e49ca31534;B97.5;Reovirus as the cause of diseases classified to other chapters;A
+749f6403-29c1-4dba-4412-4b6b31459b99;0bad6e48-24bf-380e-434e-61e49ca31534;B97.6;Parvovirus as the cause of diseases classified to other chapters;A
+6a2e8c2f-0aba-15a7-7c89-0bef8c17556d;0bad6e48-24bf-380e-434e-61e49ca31534;B97.7;Papillomavirus as the cause of diseases classified to other chapters;A
+ce766e67-912d-0792-0cc4-25b0d6ac1057;0bad6e48-24bf-380e-434e-61e49ca31534;B97.8;Other viral agents as the cause of diseases classified to other chapters;A
+e1745d25-a241-12a7-9c57-10e35f705af0;0bad6e48-24bf-380e-434e-61e49ca31534;B98;Other specified infectious agents as the cause of disease classified to other chapters;A
+eab659ca-8c55-71ed-8693-70c4f0f78d56;0bad6e48-24bf-380e-434e-61e49ca31534;B98.0;Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters;A
+e4d645d2-5378-6f75-0358-116aafcc7716;0bad6e48-24bf-380e-434e-61e49ca31534;B98.1;Vibrio vulnifucus as the cause of diseases classified to other chapters;A
+ae159a0c-1c7e-a472-20fa-deeaacf228b5;b3ec55c6-1a16-7c11-19ea-aecd9a374770;B99;Other infectious disease;A
+708ee2e5-09a1-8477-7f88-c18cfe887cea;e0332da0-48fa-7088-7ad8-0104565e4615;C00;Malignant neoplasm of lip;A
+eeb5b296-9066-83ae-1852-f544743d7ad6;e0332da0-48fa-7088-7ad8-0104565e4615;C00.0;Malignant neoplasm, external upper lip;A
+bf00aee7-4cda-7b75-8217-a5d72211475e;e0332da0-48fa-7088-7ad8-0104565e4615;C00.1;Malignant neoplasm, external lower lip;A
+31171c4a-388d-4397-412b-1391afd67ed0;e0332da0-48fa-7088-7ad8-0104565e4615;C00.2;Malignant neoplasm, external lip, unspecified;A
+95548163-0a65-004e-7942-7cbcdcdf95a0;e0332da0-48fa-7088-7ad8-0104565e4615;C00.3;Malignant neoplasm, upper lip, inner aspect;A
+87fb574b-356b-249d-30a9-0de46f3fc59;e0332da0-48fa-7088-7ad8-0104565e4615;C00.4;Malignant neoplasm, lower lip, inner aspect;A
+42f6a54d-09f3-0360-4d3e-3e1231c6999a;e0332da0-48fa-7088-7ad8-0104565e4615;C00.5;Malignant neoplasm, lip, unspecified, inner aspect;A
+c4b0e5fe-1184-463c-535a-6b8caea6f46;e0332da0-48fa-7088-7ad8-0104565e4615;C00.6;Malignant neoplasm, commissure of lip;A
+9d600c2d-3de8-2d95-4493-eb7f91584a52;e0332da0-48fa-7088-7ad8-0104565e4615;C00.8;Malignant neoplasm, overlapping lesion of lip;A
+78d53d9e-8490-7d95-3751-c7fda9d89d0e;e0332da0-48fa-7088-7ad8-0104565e4615;C00.9;Malignant neoplasm, lip, unspecified;A
+27b57704-1da0-a754-876b-bced3d553b0a;e0332da0-48fa-7088-7ad8-0104565e4615;C01;Malignant neoplasm of base of tongue;A
+f3ea93bd-3a62-0a42-692a-e22ab15a51e7;e0332da0-48fa-7088-7ad8-0104565e4615;C02;Malignant neoplasm of other and unspecified parts of tongue;A
+ee982ddf-56af-08e5-02cd-26719c0ba3af;e0332da0-48fa-7088-7ad8-0104565e4615;C02.0;Malignant neoplasm, dorsal surface of tongue;A
+b1679040-160c-9fed-522c-7f02fbe525c3;e0332da0-48fa-7088-7ad8-0104565e4615;C02.1;Malignant neoplasm, border of tongue;A
+09bdc75e-5f5b-28bb-3643-8df280747b2c;e0332da0-48fa-7088-7ad8-0104565e4615;C02.2;Malignant neoplasm, ventral surface of tongue;A
+513c6b82-0911-0022-3ae6-610ad1085594;e0332da0-48fa-7088-7ad8-0104565e4615;C02.3;Malignant neoplasm, anterior two-thirds of tongue, part unspecified;A
+2141935f-16b9-44d5-153d-7413447817d7;e0332da0-48fa-7088-7ad8-0104565e4615;C02.4;Malignant neoplasm, lingual tonsil;A
+2e52eebe-88ce-5f17-3822-6e32dd8e5755;e0332da0-48fa-7088-7ad8-0104565e4615;C02.8;Malignant neoplasm, overlapping lesion of tongue;A
+48adb8e9-01e9-a17c-0846-2b809e2eaae;e0332da0-48fa-7088-7ad8-0104565e4615;C02.9;Malignant neoplasm, tongue, unspecified;A
+fde6ca4f-6baa-2376-4690-57a8a30839e8;e0332da0-48fa-7088-7ad8-0104565e4615;C03;Malignant neoplasm of gum;A
+ea28a658-7de0-a4a6-57b7-df82d9333a73;e0332da0-48fa-7088-7ad8-0104565e4615;C03.0;Malignant neoplasm, upper gum;A
+518a93a1-8ba9-539c-18e1-5a4c781e9111;e0332da0-48fa-7088-7ad8-0104565e4615;C03.1;Malignant neoplasm, lower gum;A
+52b62a8f-6bd5-5a13-713e-f99ef8a19bf;e0332da0-48fa-7088-7ad8-0104565e4615;C03.9;Malignant neoplasm, gum, unspecified;A
+c4160984-4ce0-68e4-16a4-208a022e32ad;e0332da0-48fa-7088-7ad8-0104565e4615;C04;Malignant neoplasm of floor of mouth;A
+292df753-8a9e-27a1-8e07-1d40eb5a2624;e0332da0-48fa-7088-7ad8-0104565e4615;C04.0;Malignant neoplasm, anterior floor of mouth;A
+d65c1d62-9af5-6645-6e16-a9ca527e6f50;e0332da0-48fa-7088-7ad8-0104565e4615;C04.1;Malignant neoplasm, lateral floor of mouth;A
+fccc240d-0a55-4c90-1ee1-7159e6998712;e0332da0-48fa-7088-7ad8-0104565e4615;C04.8;Malignant neoplasm, overlapping lesion of floor of mouth;A
+3de5e717-2c67-38cd-08d6-d8c81ca34ea0;e0332da0-48fa-7088-7ad8-0104565e4615;C04.9;Malignant neoplasm, floor of mouth, unspecified;A
+d6b0f0c0-4d7f-5e2b-1824-d8e9143a5fa2;e0332da0-48fa-7088-7ad8-0104565e4615;C05;Malignant neoplasm of palate;A
+4c22dee3-736a-764e-02ee-9edffbf74c7d;e0332da0-48fa-7088-7ad8-0104565e4615;C05.0;Malignant neoplasm, hard palate;A
+6b33df11-801d-7ad1-7a14-96b72c2d4101;e0332da0-48fa-7088-7ad8-0104565e4615;C05.1;Malignant neoplasm, soft palate;A
+7f747bb5-834b-74f0-6e61-111af2307f46;e0332da0-48fa-7088-7ad8-0104565e4615;C05.2;Malignant neoplasm, uvula;A
+d2ae1575-0171-81ca-07e9-5d0914ae166c;e0332da0-48fa-7088-7ad8-0104565e4615;C05.8;Malignant neoplasm, overlapping lesion of palate;A
+682db8a5-8660-1a23-5294-89b5c5ca2969;e0332da0-48fa-7088-7ad8-0104565e4615;C05.9;Malignant neoplasm, palate, unspecified;A
+ba826997-58b4-517e-41e1-31a207108607;e0332da0-48fa-7088-7ad8-0104565e4615;C06;Malignant neoplasm of other and unspecified parts of mouth;A
+4a34a9bd-6edb-10c1-58c9-c7ff9cf914c0;e0332da0-48fa-7088-7ad8-0104565e4615;C06.0;Malignant neoplasm, cheek mucosa;A
+33c8a98f-0197-0e2b-67b0-5dfe731e9aa5;e0332da0-48fa-7088-7ad8-0104565e4615;C06.1;Malignant neoplasm, vestibule of mouth;A
+23a640d4-29c7-83df-6bd8-3b969c8a4658;e0332da0-48fa-7088-7ad8-0104565e4615;C06.2;Malignant neoplasm, retromolar area;A
+c8d18e68-247d-3b85-7de4-acecc2ce1758;e0332da0-48fa-7088-7ad8-0104565e4615;C06.8;Malignant neoplasm, overlapping lesion of other and unspecified parts of mouth;A
+f64b70ae-4748-2601-5546-9ef912b24289;e0332da0-48fa-7088-7ad8-0104565e4615;C06.9;Malignant neoplasm, mouth, unspecified;A
+ad9520a7-5ab5-63f1-2ede-166620f7826a;e0332da0-48fa-7088-7ad8-0104565e4615;C07;Malignant neoplasm of parotid gland;A
+10526de6-5545-3000-98a5-fe154148a5e9;e0332da0-48fa-7088-7ad8-0104565e4615;C08;Malignant neoplasm of other and unspecified major salivary glands;A
+902eb2e7-520b-a1af-3074-511e9aa19474;e0332da0-48fa-7088-7ad8-0104565e4615;C08.0;Malignant neoplasm, submandibular gland;A
+eadcad60-282e-7178-9f42-4dc672e99e11;e0332da0-48fa-7088-7ad8-0104565e4615;C08.1;Malignant neoplasm, sublingual gland;A
+cc704617-71cc-24c9-6377-0adf3e8b25cc;e0332da0-48fa-7088-7ad8-0104565e4615;C08.8;Malignant neoplasm, overlapping lesion of major salivary glands;A
+f642451e-5dce-6acb-90dc-2d1b6dd2d4;e0332da0-48fa-7088-7ad8-0104565e4615;C08.9;Malignant neoplasm, major salivary gland, unspecified;A
+170e3e79-5081-4faa-1724-e4d2ec949e4a;e0332da0-48fa-7088-7ad8-0104565e4615;C09;Malignant neoplasm of tonsil;A
+f4d22a5e-764f-842a-90c4-14736e1b6885;e0332da0-48fa-7088-7ad8-0104565e4615;C09.0;Malignant neoplasm, tonsillar fossa;A
+a54784ab-621f-0b32-4373-391328b8ef1;e0332da0-48fa-7088-7ad8-0104565e4615;C09.1;Malignant neoplasm, tonsillar pillar (anterior)(posterior);A
+184dd4e6-9262-8b16-2dca-46f2f6442e3c;e0332da0-48fa-7088-7ad8-0104565e4615;C09.8;Malignant neoplasm, overlapping lesion of tonsil;A
+96e9191c-4ec6-5efe-1971-ed7414f5a048;e0332da0-48fa-7088-7ad8-0104565e4615;C09.9;Malignant neoplasm, tonsil, unspecified;A
+5aab77e7-094d-5102-841d-05a60a9d5998;e0332da0-48fa-7088-7ad8-0104565e4615;C10;Malignant neoplasm of oropharynx;A
+f31bf2a3-4819-85e9-994a-450123a79ea0;e0332da0-48fa-7088-7ad8-0104565e4615;C10.0;Malignant neoplasm, vallecula;A
+88abd212-a7b8-42c9-2e74-cdcee431430d;e0332da0-48fa-7088-7ad8-0104565e4615;C10.1;Malignant neoplasm, anterior surface of epiglottis;A
+ee82c177-4682-6886-54cb-759b1a823fd5;e0332da0-48fa-7088-7ad8-0104565e4615;C10.2;Malignant neoplasm, lateral wall of oropharynx;A
+d652c394-18f7-3beb-590f-2a0933c624ae;e0332da0-48fa-7088-7ad8-0104565e4615;C10.3;Malignant neoplasm, posterior wall of oropharynx;A
+aac84c7e-07d7-a2b0-a376-0d7297967e1e;e0332da0-48fa-7088-7ad8-0104565e4615;C10.4;Malignant neoplasm, branchial cleft;A
+8708d3b5-0651-4c14-71ff-63cd9fa63992;e0332da0-48fa-7088-7ad8-0104565e4615;C10.8;Malignant neoplasm, overlapping lesion of oropharynx;A
+9501dfd1-10c8-3978-5864-674f63ac267;e0332da0-48fa-7088-7ad8-0104565e4615;C10.9;Malignant neoplasm, oropharynx, unspecified;A
+0b466c15-0696-60a1-0a19-0ea03ced9684;e0332da0-48fa-7088-7ad8-0104565e4615;C11;Malignant neoplasm of nasopharynx;A
+41ec00c7-3f3e-482d-0f88-6f61699d3e7;e0332da0-48fa-7088-7ad8-0104565e4615;C11.0;Malignant neoplasm, superior wall of nasopharynx;A
+849e4cc3-0f19-9c4e-8acb-6f8198c9150f;e0332da0-48fa-7088-7ad8-0104565e4615;C11.1;Malignant neoplasm, posterior wall of nasopharynx;A
+fa6b2a57-8c5b-8b24-54c2-53cec41e7657;e0332da0-48fa-7088-7ad8-0104565e4615;C11.2;Malignant neoplasm, lateral wall of nasopharynx;A
+4c633895-3668-35ed-5eb3-702558271114;e0332da0-48fa-7088-7ad8-0104565e4615;C11.3;Malignant neoplasm, anterior wall of nasopharynx;A
+2cdd7d2e-7a2a-1494-3541-e91cb9f59c57;e0332da0-48fa-7088-7ad8-0104565e4615;C11.8;Malignant neoplasm, overlapping lesion of nasopharynx;A
+5914e749-0b5b-72ae-a692-2c3fa1d21f29;e0332da0-48fa-7088-7ad8-0104565e4615;C11.9;Malignant neoplasm, nasopharynx, unspecified;A
+8bf552b9-a02a-6795-4530-b170159885d9;e0332da0-48fa-7088-7ad8-0104565e4615;C12;Malignant neoplasm of piriform sinus;A
+f260113b-a4e5-3576-6b2f-d895b2d9412c;e0332da0-48fa-7088-7ad8-0104565e4615;C13;Malignant neoplasm of hypopharynx;A
+0ea30528-8ef6-034f-5b93-349b7e524ee6;e0332da0-48fa-7088-7ad8-0104565e4615;C13.0;Malignant neoplasm, postcricoid region;A
+886bc9a0-8a42-37b7-516e-f5561aa97133;e0332da0-48fa-7088-7ad8-0104565e4615;C13.1;Malignant neoplasm, aryepiglottic fold, hypopharyngeal aspect;A
+2440ba64-7c27-9f99-245c-ccc3fcac9378;e0332da0-48fa-7088-7ad8-0104565e4615;C13.2;Malignant neoplasm, posterior wall of hypopharynx;A
+74c6beab-9e5c-66f6-2a70-f9ab778d44d3;e0332da0-48fa-7088-7ad8-0104565e4615;C13.8;Malignant neoplasm, overlapping lesion of hypopharynx;A
+a80b0ec2-7d79-3d9c-7a3a-e6df3f8986a7;e0332da0-48fa-7088-7ad8-0104565e4615;C13.9;Malignant neoplasm, hypopharynx, unspecified;A
+8474ad0e-04c8-55fd-9cae-30fa00b8a3d9;e0332da0-48fa-7088-7ad8-0104565e4615;C14;Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx;A
+42829823-450e-a0d0-1cb4-b1b4eae77839;e0332da0-48fa-7088-7ad8-0104565e4615;C14.0;Malignant neoplasm, pharynx, unspecified;A
+231df212-5a92-169e-13f9-c030bcc01309;e0332da0-48fa-7088-7ad8-0104565e4615;C14.1;Malignant neoplasm, laryngopharynx;A
+84972114-9ede-1fba-87c4-be66f0255f42;e0332da0-48fa-7088-7ad8-0104565e4615;C14.2;Malignant neoplasm, Waldeyer's ring;A
+230bb9ce-66da-864e-52c5-da7ed79d962b;e0332da0-48fa-7088-7ad8-0104565e4615;C14.8;Malignant neoplasm, overlapping lesion of lip, oral cavity and pharynx;A
+938370e6-4447-2b27-2ded-e0f3289b35f2;c767ad79-a746-6cc8-8729-56d2a3c14d36;C15;Malignant neoplasm of oesophagus;A
+f5d5124a-3f52-7a69-2112-b7ee6362741b;c767ad79-a746-6cc8-8729-56d2a3c14d36;C15.0;Malignant neoplasm, cervical part of oesophagus;A
+3593d592-4798-a5bd-01be-ed62ba589fda;c767ad79-a746-6cc8-8729-56d2a3c14d36;C15.1;Malignant neoplasm, thoracic part of oesophagus;A
+1fa52055-0586-9ee7-35af-3f2648c29155;c767ad79-a746-6cc8-8729-56d2a3c14d36;C15.2;Malignant neoplasm, abdominal part of oesophagus;A
+48250cdd-020e-0596-38d3-34ad31701721;c767ad79-a746-6cc8-8729-56d2a3c14d36;C15.3;Malignant neoplasm, upper third of oesophagus;A
+87458524-5fb5-a268-4615-eb0454c116b9;c767ad79-a746-6cc8-8729-56d2a3c14d36;C15.4;Malignant neoplasm, middle third of oesophagus;A

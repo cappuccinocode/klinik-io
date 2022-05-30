@@ -28,6 +28,19 @@
         </ul>
 
         <ul class="navbar-nav ml-auto">
+            {{-- <li>
+                <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
+                    @foreach($available_locales as $locale_name => $available_locale)
+                        @if($available_locale === $current_locale)
+                            <span class="ml-2 mr-2 text-gray-700">{{ $locale_name }}</span>
+                        @else
+                            <a class="ml-1 underline ml-2 mr-2" href="language/{{ $available_locale }}">
+                                <span>{{ $locale_name }}</span>
+                            </a>
+                        @endif
+                    @endforeach
+                </div>
+            </li> --}}
             <li class="nav-item dropdown user-menu">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
                     <img src="https://assets.infyom.com/logo/blue_logo_150x150.png"
@@ -42,7 +55,7 @@
                              alt="User Image">
                         <p>
                             {{ Auth::user()->name }}
-                            <small>Member since {{ Auth::user()->created_at->format('M. Y') }}</small>
+                            <small>Member since {{ Auth::user()->record_entry_datetime->format('M. Y') }}</small>
                         </p>
                     </li>
                     <!-- Menu Footer-->
@@ -82,6 +95,9 @@
 </div>
 
 <script src="{{ mix('js/app.js') }}" defer></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+{{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> --}}
+{{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> --}}
 
 @yield('third_party_scripts')
 

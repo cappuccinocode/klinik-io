@@ -13,14 +13,24 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('users', function (Blueprint $table) {
-            $table->id();
-            $table->string('name');
-            $table->string('email')->unique();
+        Schema::create('kio_users', function (Blueprint $table) {
+            $table->uuid('id')->primary();
+            $table->string('user_code')->unique();
+            $table->string('employee_code')->unique();
+            $table->string('username');
+            //$table->string('email')->unique();
+            $table->string('email')->nullable();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->rememberToken();
-            $table->timestamps();
+            $table->timestamp('record_entry_datetime')->nullable();
+            $table->uuid('record_entry_user_id');
+            $table->timestamp('record_update_datetime')->nullable();
+            $table->uuid('record_update_user_id')->nullable();
+            $table->string('record_status');
+
+            // $table->foreign('record_entry_user_id')->references('id')->on('kio_users')->onDelete('cascade');
+            // $table->foreign('record_update_user_id')->references('id')->on('kio_users')->onDelete('cascade');
         });
     }
 
@@ -31,6 +41,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('users');
+        Schema::dropIfExists('kio_users');
     }
 };

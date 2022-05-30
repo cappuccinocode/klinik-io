@@ -1,0 +1,26 @@
+﻿id;parent_id;icd_category_name;record_status
+c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;;Certain infectious and parasitic diseases (A00-B99);A
+e7156268-5ee3-1562-8fb7-beca7aa789f7;;Neoplasms (C00-D48);A
+d30567a8-36ff-7875-8687-2029d9a4a010;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Intestinal infectious diseases;A
+46fd5ccb-9bc5-3982-89e7-75399b7d480;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Tuberculosis;A
+64b44e45-4087-78e4-3992-ab140d662cba;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Certain zoonotic bacterial diseases;A
+31bff161-2fa5-4847-7fcb-0c1c7c212548;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Other bacterial diseases;A
+5673974f-95b8-026a-904b-2b7b67633cbd;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Infections with a predominantly sexual mode of transmission;A
+7923b288-0462-95d9-61be-8308a6cc210b;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Other spirochaetal diseases;A
+4acb177b-9ee5-5717-7f88-ca5d68cb68ea;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Other diseases caused by chlamydiae;A
+0eb26cca-24c8-a23c-56be-2673eb0a95a1;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Rickettsioses;A
+05813065-1742-2117-0b77-7b00f6185bbd;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Viral infections of the central nervous system;A
+7232d021-a377-a197-0f1b-0ead85816e9e;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Arthropod-borne viral fevers and viral haemorrhagic fevers;A
+a30c74c5-28bc-6bbd-18ec-c0ed3281a7af;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Viral infections characterized by skin and mucous membrane lesions;A
+c44fa762-1f39-3f71-4ee1-97d00d5e5273;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Viral hepatitis;A
+b4a190b1-5d5b-1378-9dbd-ee31f2ed740e;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Human immunodeficiency virus [HIV] disease;A
+79461671-02de-9801-8855-1c67fd07318c;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Other viral diseases;A
+34f9948b-2a28-562c-2d1c-49a2cc4543aa;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Mycoses;A
+9910c901-6613-0438-52d3-d452d0725e93;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Protozoal diseases;A
+a4fd7689-57ef-517c-59f1-9bcc1d62273f;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Helminthiases;A
+696e0511-6c2b-3a78-0ab1-8b6442c65c44;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Pediculosis, acariasis and other infestations;A
+f2444fd9-48de-683f-2fd4-923a77ce91ce;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Sequelae of infectious and parasitic diseases;A
+0bad6e48-24bf-380e-434e-61e49ca31534;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Bacterial, viral and other infectious agents;A
+0bad6e48-24bf-380e-434e-61e49ca31534;c7f6e12a-9277-0e66-a18e-f0dc5b9cac2;Other infectious diseases;A
+e0332da0-48fa-7088-7ad8-0104565e4615;e7156268-5ee3-1562-8fb7-beca7aa789f7;Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue: Lip, oral cavity and pharynx;A
+c767ad79-a746-6cc8-8729-56d2a3c14d36;e7156268-5ee3-1562-8fb7-beca7aa789f7;Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue: Digestive organs;A
