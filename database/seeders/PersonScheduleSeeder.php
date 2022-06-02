@@ -23,7 +23,7 @@ class PersonScheduleSeeder extends Seeder
         $firstline = true;
         while (($data = fgetcsv($csvFile, 2000, ";")) !== FALSE) {
             if (!$firstline) {
-                EmployeeSchedule::create([
+                PersonSchedule::create([
                     "id" => $data['0'],
                     "person_employee_id" => $data['1'],
                     "room_id" => $data['2'],
